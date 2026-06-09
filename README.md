@@ -1,73 +1,57 @@
-# React + TypeScript + Vite
+# CommonBody
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Human Open Source Health Project** · **人类健康开源计划**
 
-Currently, two official plugins are available:
+> Every patient can contribute knowledge.  
+> 每一个患者都可以贡献知识。
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Every recovered patient can become a light for others.  
+> 每一个康复者都可以成为后来者的灯塔。
 
-## React Compiler
+## 关于
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[CommonBody.org](https://commonbody.org) 是一个非盈利公益网站，分享患者与康复者的真实经验，开源非药物、非手术的日常改善方法。
 
-## Expanding the ESLint configuration
+## 技术栈
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- [Vite](https://vite.dev/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router](https://reactrouter.com/)
+- Markdown 内容（构建时打包）
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 本地开发
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 构建
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run build
+npm run preview
 ```
+
+## 内容结构
+
+```
+src/content/
+├── modules/          # 健康模块（如 gut-care）
+└── pages/            # 静态页面（关于、免责、隐私等）
+```
+
+## 贡献
+
+v1.0 阶段请通过邮件投稿：housenkui@gmail.com
+
+详见站内 [贡献指南](https://commonbody.org/contribute) 或 `src/content/pages/contribute.md`。
+
+## 免责声明
+
+本站内容仅供参考，由患者经验整理，不构成医疗建议。详见 [免责声明](https://commonbody.org/disclaimer)。
+
+## 许可
+
+- 网站源码：MIT License（待添加 LICENSE 文件）
+- 内容文档：CC BY 4.0
