@@ -9,6 +9,7 @@ node_modules/
 
 # Build output
 dist/
+dist-ssr/
 build/
 out/
 .next/
@@ -65,9 +66,11 @@ blob-report/
 *.swp
 *.swo
 *~
-.project
-.classpath
-.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 # OS files
 .DS_Store
@@ -78,6 +81,9 @@ blob-report/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Local overrides
+*.local
 
 # Python (backend / scripts)
 __pycache__/
@@ -101,7 +107,6 @@ htmlcov/
 docker-compose.override.yml
 
 # Misc
-*.local
 *.bak
 *.tmp
 *.temp

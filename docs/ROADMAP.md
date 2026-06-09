@@ -1,0 +1,490 @@
+# CommonBody.org 实施路线图
+
+> **CommonBody** — Human Open Source Health Project  
+> **共同体** — 人类健康开源计划
+
+| | |
+|---|---|
+| **域名** | [commonbody.org](https://commonbody.org) |
+| **仓库建议名** | `commonbody` 或 `commonbody-org` |
+| **技术基础** | Vite + React + TypeScript（已初始化） |
+| **种子内容** | `pic/IMG_8709.PNG` 思维导图及 `pic/IMG_8709.md` |
+| **文档版本** | v1.1 |
+| **更新日期** | 2026-06-09 |
+
+---
+
+## 使命宣言
+
+> **Every patient can contribute knowledge.**  
+> 每一个患者都可以贡献知识。
+
+> **Every recovered patient can become a light for others.**  
+> 每一个康复者都可以成为后来者的灯塔。
+
+---
+
+## 一、项目定位与核心价值
+
+### 1.1 CommonBody 是什么
+
+CommonBody（共同体）是一个 **人类健康开源计划（Human Open Source Health Project）**——  
+非盈利、面向全球、以 **患者经验共享** 与 **自律康复方法开源** 为核心的健康协作平台。
+
+名字 **CommonBody** 兼具三层含义：
+
+| 层次 | 含义 |
+|------|------|
+| **Common** | 共同的、普惠的——知识属于每一个人 |
+| **Body** | 身体——关注真实的生活体验，而非抽象概念 |
+| **共同体** | 患者、康复者、关心者组成的协作社区 |
+
+这个名字 **容易记忆、国际化、不绑定单一疾病**，可以从肛肠护理出发，逐步扩展到便秘、腰痛、失眠等常见慢性困扰。
+
+### 1.2 核心价值（我们做什么，不做什么）
+
+本项目的核心价值 **并不是「卖药」或「卖疗法」**，而是：
+
+| 核心价值 | 说明 |
+|----------|------|
+| **患者经验共享** | 康复者将亲身经历的护理方法、踩过的坑整理成可复用的知识 |
+| **自律康复方法开源** | 像开源软件一样，方法可阅读、可 fork、可改进、可传播 |
+| **非药物、非手术改善方案** | 聚焦生活方式、饮食、运动、作息等普通人可执行的日常方案 |
+| **全球协作贡献** | 任何人都可以提交改进，经审阅后纳入知识库 |
+| **减少普通人疾病痛苦** | 最终目标：让后来者少走弯路，少受一点苦 |
+
+**我们明确不做：**
+
+- 在线诊断、处方或治疗方案
+- 药品、保健品、医疗器械的销售或导流
+- 付费咨询、会员墙、商业医疗广告
+- 替代专业医疗机构的任何服务
+- 将患者数据商业化
+
+### 1.3 开源健康 vs 传统医疗信息
+
+```
+传统医疗信息            CommonBody 开源健康
+─────────────────      ─────────────────────────
+医生 → 患者（单向）      患者 ↔ 康复者 ↔ 患者（多向）
+封闭、版权保护           开放、可 fork、可贡献
+以疾病为中心             以「普通人的日常改善」为中心
+往往绑定机构利益         非盈利、无商业导向
+```
+
+第一份种子内容——`IMG_8709` 肛肠日常护理思维导图——是 **整个计划的一个模块起点**，而非项目的全部边界。
+
+### 1.4 非盈利性质如何体现
+
+| 维度 | 做法 |
+|------|------|
+| 内容 | 全部免费公开，无需注册即可阅读 |
+| 收费 | 不设付费墙、会员制、打赏（初期） |
+| 广告 | 不接商业医疗广告；未来若有赞助须明确标注 |
+| 数据 | 不收集不必要的用户隐私；不做用户画像转卖 |
+| 代码 | 网站源码与内容仓库公开（GitHub） |
+| 运营 | 志愿维护，成本控制在极低水平 |
+| 透明度 | 「关于我们」说明性质、来源、贡献者、更新记录 |
+
+### 1.5 核心警示（全站必须保留）
+
+以下内容应在首页、各指南页、页脚 **醒目展示**：
+
+> **重症患者不适用，必须立刻就医。听取专业医生的建议，或者尽早让医疗系统介入。**
+
+> 本站内容仅供参考，由患者与康复者经验整理而成，**不构成医疗建议**。如有相关症状，请以专业医疗机构的诊断与治疗方案为准。
+
+---
+
+## 二、内容体系与扩展路线
+
+### 2.1 疾病/主题模块规划
+
+CommonBody 采用 **模块化** 结构：每个常见困扰独立成一个「主题包」，格式统一、可独立阅读、可独立贡献。
+
+#### 已规划模块
+
+| 模块 ID | 主题 | 状态 | 说明 |
+|---------|------|------|------|
+| `gut-care` | 肛肠日常护理 | **种子内容** | 源自 `IMG_8709`，含便秘、轻微痔疮、肛瘘预防 |
+| `constipation` | 便秘调理 | 待扩展 | 可与 gut-care 合并或独立 |
+| `back-pain` | 腰痛养护 | 规划中 | 久坐、姿势、拉伸等 |
+| `insomnia` | 失眠改善 | 规划中 | 作息、环境、非药物助眠 |
+| `...` | 更多常见病 | 开放 | 由社区贡献者提议 |
+
+#### 每个模块的标准结构
+
+```
+src/content/modules/<module-id>/
+├── meta.json          # 标题、描述、版本、贡献者、标签
+├── index.md           # 模块概述与导航
+├── sections/          # 分节内容（如果类、运动类、生活习惯等）
+│   ├── fruits.md
+│   ├── exercise.md
+│   └── ...
+├── assets/            # 思维导图、配图
+└── changelog.md       # 修订记录
+```
+
+### 2.2 网站结构（分阶段）
+
+#### 阶段 A：MVP（v1.0）
+
+```
+commonbody.org/
+├── /                         首页（使命宣言 + 主题导航 + 警示）
+├── /modules/gut-care         首个模块：肛肠日常护理
+│   └── /sections/*           各分节（水果、茶饮、运动、餐食、生活习惯）
+├── /modules/gut-care/mindmap 原始思维导图（IMG_8709.PNG）
+├── /about                    关于共同体（使命、价值观、非盈利声明）
+├── /contribute               如何贡献（投稿、PR 流程、内容规范）
+├── /disclaimer               免责声明
+└── /privacy                  隐私政策
+```
+
+#### 阶段 B：多模块扩展（v2.0+）
+
+```
+commonbody.org/
+├── /modules                  全部主题索引
+│   ├── /gut-care
+│   ├── /back-pain
+│   ├── /insomnia
+│   └── /...
+├── /contributors             贡献者名录（致谢）
+├── /resources                公开医学论文与期刊链接
+├── /changelog                全站更新日志
+└── /en                       英文版（国际化）
+```
+
+### 2.3 内容贡献模型（开源协作）
+
+借鉴开源软件的工作方式，建立 **「健康经验 Pull Request」** 机制：
+
+```
+1. 康复者在 GitHub 上 fork 仓库
+2. 在 src/content/modules/ 下新增或修改 Markdown
+3. 提交 Pull Request，说明来源（个人经验 / 引用的公开论文）
+4. 维护者审阅：准确性、合规性、措辞是否保守
+5. 合并后自动部署，版本号递增
+```
+
+**贡献者协议要点：**
+
+- 贡献内容以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 或类似开放许可发布
+- 贡献者保留署名权，网站展示贡献者名录
+- 维护者有权出于合规或准确性原因修改或撤回内容
+
+---
+
+## 三、技术实施路线
+
+### 3.1 当前技术栈（已有）
+
+| 工具 | 用途 |
+|------|------|
+| Vite 8 | 构建与开发服务器 |
+| React 19 | 前端 UI |
+| TypeScript | 类型安全 |
+| ESLint | 代码规范 |
+
+### 3.2 推荐补充的技术选型
+
+| 需求 | 推荐方案 | 理由 |
+|------|----------|------|
+| 路由 | `react-router-dom` | 多模块、多页面导航 |
+| 样式 | Tailwind CSS 或纯 CSS | 简洁公益站风格，国际化友好 |
+| 内容 | Markdown + `react-markdown` | 内容与代码分离，方便 PR 贡献 |
+| 模块元数据 | `meta.json` per module | 标题、标签、版本、贡献者 |
+| i18n（后期） | `react-i18next` | 中英文双语 |
+| 部署 | **Cloudflare Pages** | 免费、自定义域名、自动 HTTPS |
+| 仓库 | **GitHub 公开仓库** | 透明、免费 CI/CD、接受 PR |
+| 统计 | Cloudflare Web Analytics | 免费、隐私友好 |
+| DNS | Cloudflare | 免费 CDN + SSL |
+
+### 3.3 开发阶段拆分
+
+#### 阶段 0：品牌与仓库（1～2 天）
+
+- [ ] 在 GitHub 创建公开仓库 `commonbody`（或 `commonbody-org`）
+- [ ] 编写 `README.md`：使命宣言、项目简介、贡献指南链接
+- [ ] 添加 `LICENSE`（建议 MIT for code + CC BY 4.0 for content）
+- [ ] 添加 `CONTRIBUTING.md`：内容贡献规范与 PR 流程
+- [ ] 将本地代码推送至 GitHub
+- [ ] 确定视觉风格：可信、克制、国际化，避免医疗商业化视觉
+
+#### 阶段 1：MVP 上线（约 1 周）
+
+- [ ] 安装 `react-router-dom`，搭建路由
+- [ ] 实现首页：使命宣言（中英双语）+ 首个模块入口 + 警示横幅
+- [ ] 实现 `gut-care` 模块页面，将 `IMG_8709.md` 拆为分节内容
+- [ ] 展示原始思维导图 `IMG_8709.PNG`
+- [ ] 完成关于 / 贡献 / 免责 / 隐私 页面
+- [ ] 全站响应式布局
+- [ ] 配置 SEO 元信息（title、description、Open Graph）
+- [ ] 部署至 Cloudflare Pages，绑定 `commonbody.org`
+- [ ] 验证 HTTPS，统一 www 跳转
+
+#### 阶段 2：协作与体验（约 2～4 周）
+
+- [ ] 完善 `CONTRIBUTING.md` 与 PR 模板（`.github/PULL_REQUEST_TEMPLATE.md`）
+- [ ] 添加 Issue 模板：「提议新模块」「修正内容」「翻译」
+- [ ] 邀请 1～2 位康复者试贡献第一篇改进
+- [ ] 增加目录导航、锚点、打印友好样式
+- [ ] 添加 `sitemap.xml` 与 `robots.txt`
+- [ ] 提交 Google Search Console / Bing Webmaster
+- [ ] 无障碍优化（WCAG 基础）
+- [ ] 有医学背景者审阅种子内容
+
+#### 阶段 3：多模块扩展（持续）
+
+- [ ] 上线第二个模块（如 `back-pain` 或 `insomnia`）
+- [ ] 贡献者名录页面
+- [ ] 英文版首页与首个模块
+- [ ] 公开医学资源链接页
+- [ ] 社区宣传：Reddit、患者社群、开源社区（注意合规表述）
+
+#### 阶段 4：长期维护（持续）
+
+- [ ] 定期审阅与更新各模块（版本号递增）
+- [ ] 监控依赖安全（Dependabot）
+- [ ] 域名续费提醒
+- [ ] 年度透明度报告（可选）：访问量、贡献者数、模块数
+
+---
+
+## 四、域名与部署（commonbody.org）
+
+### 4.1 推荐架构
+
+```
+用户浏览器
+    ↓
+commonbody.org（DNS → Cloudflare）
+    ↓
+Cloudflare CDN + 免费 SSL
+    ↓
+Cloudflare Pages（Vite 构建产物 dist/）
+    ↑
+GitHub 仓库（push / merge PR → 自动构建部署）
+```
+
+### 4.2 DNS 配置步骤
+
+1. 注册 [Cloudflare](https://www.cloudflare.com/)，添加站点 `commonbody.org`
+2. 在域名注册商处将 Nameserver 改为 Cloudflare 提供的地址
+3. Cloudflare Pages 连接 GitHub 仓库
+4. 构建设置：
+   - **Build command:** `npm run build`
+   - **Build output directory:** `dist`
+   - **Node version:** 20 或 22
+5. Custom domains 添加 `commonbody.org` 与 `www.commonbody.org`
+6. 等待 DNS 生效
+
+### 4.3 费用预估
+
+| 项目 | 费用 |
+|------|------|
+| 域名 commonbody.org | 已购买（约 $10～15/年续费） |
+| Cloudflare Pages + CDN + SSL | **$0** |
+| GitHub 公开仓库 | **$0** |
+| 邮箱转发（contact@commonbody.org） | **$0** |
+| **合计** | **约仅域名年费** |
+
+---
+
+## 五、法律与合规
+
+### 5.1 必须有的页面
+
+| 页面 | 要点 |
+|------|------|
+| 免责声明 | 非医疗机构；患者经验整理；不构成医疗建议；紧急情况就医 |
+| 隐私政策 | Cookie/统计说明、数据收集范围、联系方式 |
+| 关于我们 | 使命宣言、非盈利声明、运营方式、内容来源 |
+| 贡献指南 | 内容许可、审阅流程、署名方式 |
+
+### 5.2 内容合规
+
+- 避免「治愈」「根治」「特效」等绝对化用语
+- 标注「个体差异」「请咨询医生」
+- 不推荐具体药品品牌或医疗机构
+- 引用论文须注明出处与链接
+- 用户生成内容（PR 贡献）须经过审阅后发布
+- 了解目标受众所在地区的互联网医疗信息法规
+
+### 5.3 许可建议
+
+| 资产 | 建议许可 |
+|------|----------|
+| 网站源码 | [MIT License](https://opensource.org/licenses/MIT) |
+| 内容文档 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 贡献者上传的图片 | 须在 PR 中声明版权与授权 |
+
+---
+
+## 六、设计与品牌
+
+### 6.1 品牌要素
+
+| 要素 | 内容 |
+|------|------|
+| **英文名** | CommonBody |
+| **中文名** | 共同体 |
+| **副标题** | Human Open Source Health Project / 人类健康开源计划 |
+| **使命（英）** | Every patient can contribute knowledge. |
+| **使命（中）** | 每一个患者都可以贡献知识。 |
+| **愿景（英）** | Every recovered patient can become a light for others. |
+| **愿景（中）** | 每一个康复者都可以成为后来者的灯塔。 |
+
+### 6.2 视觉方向
+
+- **色调**：绿色（生命、希望）+ 暖白背景 + 深灰文字
+- **风格**：干净、克制、可读性优先；国际化，不地域化
+- **首页结构**：使命宣言居中 → 模块卡片网格 → 贡献入口 → 警示
+- **字体**：`-apple-system, "PingFang SC", "Segoe UI", sans-serif`
+- **图标**：Lucide 或 Heroicons（开源）
+
+### 6.3 品牌资产待办
+
+- [ ] Logo 设计（文字 Logo「CommonBody」可先上线）
+- [ ] Favicon 替换默认 Vite 图标
+- [ ] Open Graph 分享图（1200×630，含使命宣言）
+- [ ] `contact@commonbody.org` 邮箱（Cloudflare Email Routing）
+
+---
+
+## 七、内容工作流
+
+### 7.1 推荐仓库目录结构
+
+```
+CommonBody/
+├── docs/
+│   └── ROADMAP.md              # 本文件
+├── pic/                        # 原始素材（归档）
+├── public/
+│   ├── images/
+│   └── favicon.svg
+├── src/
+│   ├── content/
+│   │   └── modules/
+│   │       └── gut-care/       # 首个模块
+│   │           ├── meta.json
+│   │           ├── index.md
+│   │           ├── sections/
+│   │           └── assets/
+│   │               └── mindmap.png
+│   │   ├── about.md
+│   │   ├── contribute.md
+│   │   ├── disclaimer.md
+│   │   └── privacy.md
+│   ├── components/             # Header、Footer、Alert、ModuleCard
+│   ├── pages/
+│   └── App.tsx
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
+```
+
+### 7.2 内容更新流程
+
+```
+贡献者修改 Markdown → 提交 PR → 维护者审阅
+    → 合并至 main → Cloudflare Pages 自动部署 → 版本号 +1
+```
+
+---
+
+## 八、近期行动清单
+
+### 本周
+
+1. 创建 GitHub 公开仓库 `commonbody`，编写 `README.md`（含使命宣言）
+2. 添加 `LICENSE`、`CONTRIBUTING.md`
+3. 推送当前代码
+4. 注册 Cloudflare，迁入 `commonbody.org` DNS
+5. 安装 `react-router-dom`，搭建首页骨架（使命宣言 + 模块入口）
+6. 将 `IMG_8709.md` 落地为 `gut-care` 模块
+
+### 下周
+
+7. 完成关于 / 贡献 / 免责 / 隐私 页面
+8. 部署 Cloudflare Pages，绑定域名
+9. 全站警示横幅 + SEO 元信息 + favicon
+10. 手机端测试
+11. 邀请第一位贡献者试提交 PR
+
+### 一个月内
+
+12. 种子内容医学审阅（如有条件）
+13. 提交搜索引擎收录
+14. 发布 v1.0 公告
+15. 规划第二个模块主题（腰痛 / 失眠）
+
+---
+
+## 九、风险与应对
+
+| 风险 | 应对 |
+|------|------|
+| 内容被误认为医疗建议 | 全站免责；措辞保守；标注「患者经验」 |
+| 贡献内容质量参差 | PR 审阅制度；内容模板；医学顾问（如有） |
+| 项目被误解为商业医疗 | 关于页明确非盈利；无广告无销售 |
+| 模块扩展失控 | 统一模块格式；meta.json 规范；维护者把关 |
+| 域名 / 部署故障 | Cloudflare 向导；`dig` 检查 DNS |
+| 长期维护人力不足 | 贡献者机制；文档完善；降低上手门槛 |
+
+---
+
+## 十、成功标准
+
+### v1.0 上线
+
+- [ ] `https://commonbody.org` 可访问，HTTPS 有效
+- [ ] 首页展示使命宣言（中英双语）
+- [ ] `gut-care` 模块内容完整（含思维导图原图）
+- [ ] 关于 / 贡献 / 免责 / 隐私 页面齐全
+- [ ] GitHub 仓库公开，README 与 CONTRIBUTING 就绪
+- [ ] 手机端体验良好，无付费无广告
+- [ ] 接受第一份外部 PR 的流程跑通
+
+### v2.0 愿景
+
+- [ ] 至少 3 个疾病/主题模块上线
+- [ ] 5 位以上贡献者
+- [ ] 英文版可用
+- [ ] 被搜索引擎收录，有自然访问
+
+---
+
+## 十一、参考资源
+
+- [Vite 官方文档](https://vite.dev/)
+- [React Router](https://reactrouter.com/)
+- [Cloudflare Pages](https://developers.cloudflare.com/pages/)
+- [CC BY 4.0 许可](https://creativecommons.org/licenses/by/4.0/)
+- [GitHub 开源指南](https://opensource.guide/)
+- [WCAG 无障碍标准](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+---
+
+## 附录：当前仓库对应关系
+
+| 已有 | 路径 | 下一步 |
+|------|------|--------|
+| 思维导图原图 | `pic/IMG_8709.PNG` | 迁入 `src/content/modules/gut-care/assets/` |
+| 种子内容 | `pic/IMG_8709.md` | 拆分为 `gut-care/sections/` 各分节 |
+| 前端脚手架 | `src/`、`vite.config.ts` | 按阶段 1 改造 |
+| 本路线图 | `docs/ROADMAP.md` | 随项目进展持续更新 |
+| 待创建 | `README.md` | 使命宣言 + 项目简介 |
+| 待创建 | `CONTRIBUTING.md` | 贡献规范与 PR 流程 |
+| 待创建 | `LICENSE` | MIT（代码）+ CC BY 4.0（内容）说明 |
+
+---
+
+**CommonBody 不是一家诊所，不是药店，也不是某个疾病的专题站。**
+
+**它是共同体——让人类健康经验像开源代码一样，自由流动，彼此照亮。**
+
+下一步：从阶段 1 开始，搭建首页使命宣言与 `gut-care` 首个模块，部署至 commonbody.org。
