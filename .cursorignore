@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.svelte-kit/
+.vercel/
+.netlify/
+
+# Caches & coverage
+.cache/
+coverage/
+.nyc_output/
+*.tsbuildinfo
+
+# Python
+.venv/
+venv/
+__pycache__/
+
+# Large generated assets (uncomment if needed)
+# public/uploads/
+# static/media/
