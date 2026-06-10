@@ -4,6 +4,7 @@ import { HomePage } from './pages/HomePage'
 import { ModulePage } from './pages/ModulePage'
 import { NotFoundPage } from './pages/NotFoundPage'
 import { StaticPage } from './pages/StaticPage'
+import { StoryPage } from './pages/StoryPage'
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<HomePage />} />
+          <Route path="stories/:slug" element={<StoryPage />} />
           <Route path="modules/:moduleId" element={<ModulePage />} />
           <Route path="modules/:moduleId/:sectionSlug" element={<ModulePage />} />
           <Route path="about" element={<StaticPage />} />

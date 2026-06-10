@@ -20,6 +20,9 @@ export function Header() {
         </Link>
 
         <nav className="flex flex-wrap items-center gap-1">
+          <NavLink to="/stories/six-hemorrhoid-surgeries" className={navLinkClass}>
+            作者经历
+          </NavLink>
           <NavLink to="/modules/gut-care" className={navLinkClass}>
             护理指南
           </NavLink>

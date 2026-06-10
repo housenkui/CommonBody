@@ -28,6 +28,6 @@ export const gutCareModule: Module = {
     { slug: 'exercise', title: '运动类', content: exerciseMd },
     { slug: 'meals', title: '餐食推荐', content: mealsMd },
     { slug: 'lifestyle', title: '生活习惯', content: lifestyleMd },
-    { slug: 'mindmap', title: '原始思维导图', content: mindmapMd },
+    { slug: 'mindmap', title: '护理思维导图', content: mindmapMd },
   ],
 }

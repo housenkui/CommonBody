@@ -2,7 +2,9 @@
 
 > 模块版本 v1.0 · 内容由患者经验整理
 
-本模块整理作者亲身经历的 **便秘与轻微痔疮** 日常护理方法，涵盖饮食、茶饮、运动、餐食与生活习惯，供有需要者参考。
+本模块整理作者亲身经历的 **便秘、肛裂与轻微痔疮** 日常护理方法，涵盖饮食、茶饮、运动、餐食与生活习惯，供有需要者参考。
+
+建议先阅读作者的完整经历：[六次痔疮手术的经历](/stories/six-hemorrhoid-surgeries)。
 
 ## 重要提示
 
@@ -19,4 +21,4 @@
 - [运动类](/modules/gut-care/exercise)
 - [餐食推荐](/modules/gut-care/meals)
 - [生活习惯](/modules/gut-care/lifestyle)
-- [原始思维导图](/modules/gut-care/mindmap)
+- [护理思维导图](/modules/gut-care/mindmap)

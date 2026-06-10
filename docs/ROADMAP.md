@@ -8,7 +8,7 @@
 | **域名** | [commonbody.org](https://commonbody.org) |
 | **仓库建议名** | `commonbody` 或 `commonbody-org` |
 | **技术基础** | Vite + React + TypeScript（已初始化） |
-| **种子内容** | `pic/IMG_8709.PNG` 思维导图及 `pic/IMG_8709.md` |
+| **种子内容** | `pic/pic1.png` 思维导图及 `pic/pic1.md` |
 | **文档版本** | v1.1 |
 | **更新日期** | 2026-06-09 |
 
@@ -72,7 +72,7 @@ CommonBody（共同体）是一个 **人类健康开源计划（Human Open Sourc
 往往绑定机构利益         非盈利、无商业导向
 ```
 
-第一份种子内容——`IMG_8709` 肛肠日常护理思维导图——是 **整个计划的一个模块起点**，而非项目的全部边界。
+第一份种子内容——`pic1` 肛肠日常护理思维导图——是 **整个计划的一个模块起点**，而非项目的全部边界。
 
 ### 1.4 非盈利性质如何体现
 
@@ -106,7 +106,7 @@ CommonBody 采用 **模块化** 结构：每个常见困扰独立成一个「主
 
 | 模块 ID | 主题 | 状态 | 说明 |
 |---------|------|------|------|
-| `gut-care` | 肛肠日常护理 | **种子内容** | 源自 `IMG_8709`，含便秘、轻微痔疮、肛瘘预防 |
+| `gut-care` | 肛肠日常护理 | **种子内容** | 源自 `pic1`，含便秘、肛裂、轻微痔疮预防 |
 | `constipation` | 便秘调理 | 待扩展 | 可与 gut-care 合并或独立 |
 | `back-pain` | 腰痛养护 | 规划中 | 久坐、姿势、拉伸等 |
 | `insomnia` | 失眠改善 | 规划中 | 作息、环境、非药物助眠 |
@@ -135,7 +135,7 @@ commonbody.org/
 ├── /                         首页（使命宣言 + 主题导航 + 警示）
 ├── /modules/gut-care         首个模块：肛肠日常护理
 │   └── /sections/*           各分节（水果、茶饮、运动、餐食、生活习惯）
-├── /modules/gut-care/mindmap 原始思维导图（IMG_8709.PNG）
+├── /modules/gut-care/mindmap 护理思维导图（pic1.png）
 ├── /about                    关于共同体（使命、价值观、非盈利声明）
 ├── /contribute               如何贡献（投稿、PR 流程、内容规范）
 ├── /disclaimer               免责声明
@@ -473,8 +473,8 @@ CommonBody/
 
 | 已有 | 路径 | 下一步 |
 |------|------|--------|
-| 思维导图原图 | `pic/IMG_8709.PNG` | 迁入 `src/content/modules/gut-care/assets/` |
-| 种子内容 | `pic/IMG_8709.md` | 拆分为 `gut-care/sections/` 各分节 |
+| 思维导图原图 | `pic/pic1.png` | 已发布至 `public/images/pic1.png` |
+| 种子内容 | `pic/pic1.md` | 拆分为 `gut-care/sections/` 各分节 |
 | 前端脚手架 | `src/`、`vite.config.ts` | 按阶段 1 改造 |
 | 本路线图 | `docs/ROADMAP.md` | 随项目进展持续更新 |
 | 待创建 | `README.md` | 使命宣言 + 项目简介 |

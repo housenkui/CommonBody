@@ -36,8 +36,14 @@ export function HomePage() {
 
         <div className="mt-6 flex flex-wrap gap-3">
           <Link
-            to="/modules/gut-care"
+            to="/stories/six-hemorrhoid-surgeries"
             className="inline-flex items-center rounded-md bg-cb-accent px-4 py-2 text-sm font-medium text-white no-underline hover:bg-cb-accent-hover"
+          >
+            阅读作者经历
+          </Link>
+          <Link
+            to="/modules/gut-care"
+            className="inline-flex items-center rounded-md border border-cb-border bg-cb-bg px-4 py-2 text-sm font-medium text-cb-text no-underline hover:bg-cb-border/30"
           >
             阅读护理指南
           </Link>
@@ -51,6 +57,18 @@ export function HomePage() {
       </section>
 
       <section>
+        <Link
+          to="/stories/six-hemorrhoid-surgeries"
+          className="mb-8 block rounded-lg border border-cb-border bg-cb-surface p-5 no-underline shadow-sm transition-shadow hover:shadow-md"
+        >
+          <p className="font-mono text-xs text-cb-accent">Author Story</p>
+          <h2 className="mt-1 text-lg font-semibold text-cb-text">六次痔疮手术的经历</h2>
+          <p className="mt-2 text-sm text-cb-muted">
+            从安徽北方农村到六次手术，再到十余年未再手术——作者亲笔撰写的真实经历与教训。
+          </p>
+          <p className="mt-3 text-sm text-cb-link">阅读全文 →</p>
+        </Link>
+
         <div className="mb-4 flex items-baseline justify-between">
           <h2 className="text-xl font-semibold text-cb-text">健康模块</h2>
           <span className="font-mono text-xs text-cb-muted">{modules.length} module(s)</span>
