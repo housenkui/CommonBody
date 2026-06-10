@@ -47,6 +47,8 @@ blob-report/
 # Docs & dev-only files
 README.md
 *.md
+docs/DEPLOY-UBUNTU.md
+deploy/ssl/
 !package.json
 docker-compose*.yml
 Dockerfile*

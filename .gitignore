@@ -29,6 +29,10 @@ out/
 !.env.*.example
 *.pem
 *.key
+deploy/ssl/
+
+# Deploy docs (含服务器 IP、运维细节)
+docs/DEPLOY-UBUNTU.md
 *.p12
 *.pfx
 

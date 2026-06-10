@@ -27,3 +27,7 @@ __pycache__/
 # Large generated assets (uncomment if needed)
 # public/uploads/
 # static/media/
+
+# Deploy docs (含服务器 IP、运维细节)
+docs/DEPLOY-UBUNTU.md
+deploy/ssl/
