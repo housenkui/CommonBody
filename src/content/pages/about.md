@@ -4,6 +4,8 @@
 
 **CommonBody（共同体）** 是一个 **人类健康开源计划（Human Open Source Health Project）**。
 
+想了解创立者为什么做这件事，请阅读 [发心](/motivation)。
+
 > **Every patient can contribute knowledge.**  
 > 每一个患者都可以贡献知识。
 

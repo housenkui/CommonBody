@@ -26,6 +26,9 @@ export function Header() {
           <NavLink to="/modules/gut-care" className={navLinkClass}>
             护理指南
           </NavLink>
+          <NavLink to="/motivation" className={navLinkClass}>
+            发心
+          </NavLink>
           <NavLink to="/contribute" className={navLinkClass}>
             贡献
           </NavLink>

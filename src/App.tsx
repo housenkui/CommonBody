@@ -16,6 +16,7 @@ export default function App() {
           <Route path="modules/:moduleId" element={<ModulePage />} />
           <Route path="modules/:moduleId/:sectionSlug" element={<ModulePage />} />
           <Route path="about" element={<StaticPage />} />
+          <Route path="motivation" element={<StaticPage />} />
           <Route path="contribute" element={<StaticPage />} />
           <Route path="disclaimer" element={<StaticPage />} />
           <Route path="privacy" element={<StaticPage />} />

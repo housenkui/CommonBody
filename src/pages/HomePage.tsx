@@ -57,17 +57,31 @@ export function HomePage() {
       </section>
 
       <section>
-        <Link
-          to="/stories/six-hemorrhoid-surgeries"
-          className="mb-8 block rounded-lg border border-cb-border bg-cb-surface p-5 no-underline shadow-sm transition-shadow hover:shadow-md"
-        >
-          <p className="font-mono text-xs text-cb-accent">Author Story</p>
-          <h2 className="mt-1 text-lg font-semibold text-cb-text">六次痔疮手术的经历</h2>
-          <p className="mt-2 text-sm text-cb-muted">
-            从安徽北方农村到六次手术，再到十余年未再手术——作者亲笔撰写的真实经历与教训。
-          </p>
-          <p className="mt-3 text-sm text-cb-link">阅读全文 →</p>
-        </Link>
+        <div className="mb-8 grid gap-4 sm:grid-cols-2">
+          <Link
+            to="/motivation"
+            className="block rounded-lg border border-cb-border bg-cb-surface p-5 no-underline shadow-sm transition-shadow hover:shadow-md"
+          >
+            <p className="font-mono text-xs text-cb-accent">Motivation</p>
+            <h2 className="mt-1 text-lg font-semibold text-cb-text">发心</h2>
+            <p className="mt-2 text-sm text-cb-muted">
+              从 2014 年的愿望，到 App「滚蛋吧痔疮君」，再到今天的 CommonBody——但行好事，莫问前程。
+            </p>
+            <p className="mt-3 text-sm text-cb-link">阅读全文 →</p>
+          </Link>
+
+          <Link
+            to="/stories/six-hemorrhoid-surgeries"
+            className="block rounded-lg border border-cb-border bg-cb-surface p-5 no-underline shadow-sm transition-shadow hover:shadow-md"
+          >
+            <p className="font-mono text-xs text-cb-accent">Author Story</p>
+            <h2 className="mt-1 text-lg font-semibold text-cb-text">六次痔疮手术的经历</h2>
+            <p className="mt-2 text-sm text-cb-muted">
+              从安徽北方农村到六次手术，再到十余年未再手术——作者亲笔撰写的真实经历与教训。
+            </p>
+            <p className="mt-3 text-sm text-cb-link">阅读全文 →</p>
+          </Link>
+        </div>
 
         <div className="mb-4 flex items-baseline justify-between">
           <h2 className="text-xl font-semibold text-cb-text">健康模块</h2>
