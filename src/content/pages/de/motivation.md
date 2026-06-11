@@ -73,7 +73,39 @@ CommonBody（共同体）ist mein Versuch, diese Ideen in die Praxis umzusetzen:
 
 > **Every recovered patient can become a light for others.**
 
-## 7. Bezug zu 「滚蛋吧痔疮君」
+## 7. Wo das in der Geschichte steht
+
+CommonBody ist weder die erste Peer-Unterstützung noch die erste Seite für Genesungserfahrungen. Seit Jahrhunderten zünden Menschen, die den dunklen Weg gegangen sind, ein Licht für die Nachfolgenden an — von Mund zu Mund über Zeitungsbriefe bis zu langen Forenbeiträgen. Mit heutigen Werkzeugen (Website, offene Zusammenarbeit, Prüfung und Haftungsausschluss) wollen wir das länger, klarer und mit weniger Irreführung fortsetzen.
+
+**CommonBody steht an der Kreuzung von grassroots Patientenhilfe und offenem öffentlichem Wissen** — mit Website und Kurzvideo im 21. Jahrhundert wird fortgesetzt, was seit Hunderten von Jahren geschieht.
+
+### Genesene lehren Genesende
+
+Seit langem gilt: **Wer den Weg gegangen ist, hilft dem, der noch unterwegs ist.** AA, HIV/AIDS-Selbsthilfe, Krankheitsgruppen, chinesische Dorftradition des „gleichen Leidens“ — dieselbe Logik, nur das Medium wechselte vom Dorftor zum Krankenhausflur und zu commonbody.org.
+
+### Privates Leid wird öffentliches Wissen
+
+Patientenmemoiren, Gesundheitskolumnen, Sun Simiaos Sammlung volkstümlicher Rezepte — alles bündelte verstreute Erfahrung **zu verbreitbarem Wissen**. Sechs Operationen zu veröffentlichen ist dieselbe alte Geschichte: **Die Akte eines Menschen wird zum Nachschlagewerk für viele.**
+
+### Non-profit, offenes Wissen
+
+Aufklärungspamphlete, Arbeitermutualismus, Open Source, Wikipedia — die Linie ist lang: **Nützliches vielen zugänglich machen, ohne am Tor zu verdienen.** Das „Human Open Source Health Project“ überträgt diesen Geist auf gelebte Gesundheitserfahrung.
+
+### Vertraute Fäden im chinesischen Kontext
+
+| Faden | Bezug zu CommonBody |
+|-------|---------------------|
+| Lange „Erfahrungsbeiträge“ in Foren (seit den 2000ern) | Verstreute, schwer auffindbare Posts werden zu einer strukturierten, dauerhaften Gemeinnützigenseite |
+| Volkstümliche Ernährungs- und Pflegeschriften | Schlaf, Essen, Stuhlgewohnheiten folgen dieser Tradition; wir betonen medizinische Grenzen |
+| Patienten-Creator in sozialen Medien | CommonBody eher Infrastruktur: dauerhafte Seite, [Freiwillige](/volunteers), Pflege |
+
+### Warnungen aus der Geschichte
+
+Volkstümliche Rezepte mischen Nutzen und Irrtum; manche „Betroffene“ verkaufen Kurse; Forenbeiträge versinken. CommonBody zieht Grenzen mit **Haftungsausschluss, Non-Profit, schwere Fälle zum Arzt, redaktioneller Prüfung**.
+
+> Operation kann Dringliches retten; Gewohnheiten nähren die Wurzel. Schwere Fälle brauchen ärztliche Hilfe; bei leichten oder wiederkehrenden Beschwerden kann Peer-Erfahrung einige Fehltritte ersparen.
+
+## 8. Bezug zu 「滚蛋吧痔疮君」
 
 | | Goodbye Hemorrhoids (2015) | CommonBody (2026—) |
 |--|---------------------------|-------------------|
@@ -86,7 +118,7 @@ CommonBody（共同体）ist mein Versuch, diese Ideen in die Praxis umzusetzen:
 Die App war der Samen, die Website der Baum.  
 Dieselbe Motivation wächst in einer anderen Zeit in anderer Form.
 
-## 8. An die, die nachkommen
+## 9. An die, die nachkommen
 
 Wenn Sie dies lesen — Besucher, Mitwirkender oder künftiger Betreuer:
 

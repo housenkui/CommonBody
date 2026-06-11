@@ -70,7 +70,39 @@ CommonBody es poner estas ideas en práctica:
 
 > **Every recovered patient can become a light for others.**
 
-## 7. Relación con 「滚蛋吧痔疮君」
+## 7. Lugar en la historia
+
+CommonBody no es el primer esfuerzo de apoyo entre pacientes ni el primer sitio que comparte experiencias de recuperación. Durante siglos, quienes caminaron de noche encendieron una luz para quienes vienen detrás — del rumor oral a las cartas en periódicos y los largos hilos de foros. Queremos usar las herramientas de hoy (sitio web, colaboración abierta, revisión y avisos legales) para que esto dure más, se entienda mejor y engañe menos.
+
+**CommonBody está en la encrucijada del mutualismo entre pacientes y del conocimiento público abierto** — un sitio y videos breves en el siglo XXI para continuar lo que lleva cientos de años ocurriendo.
+
+### Recuperados que guían a recuperados
+
+La historia conoce desde hace tiempo este patrón: **quien ya recorrió el camino ayuda a quien aún está en él**. Alcohólicos Anónimos, autoayuda frente al VIH/sida, grupos por enfermedad, la tradición china del «misma dolencia, consejos compartidos» — misma lógica; solo cambió el medio: de la puerta del pueblo al pasillo del hospital y a commonbody.org.
+
+### El sufrimiento privado hecho conocimiento público
+
+Memorias de pacientes, columnas de salud, recopilación de remedios populares — todo reunió experiencias dispersas **en saber que puede difundirse**. Publicar seis cirugías y crear este sitio es la historia recurrente: **la historia clínica de una persona se convierte en libro de referencia para muchos.**
+
+### Conocimiento abierto y sin ánimo de lucro
+
+Panfletos de la Ilustración, mutuales obreras, software libre, Wikipedia — la línea es larga: **poner lo útil al alcance de muchos sin lucrar en la puerta**. El «Human Open Source Health Project» extiende ese espíritu a la experiencia vivida en salud.
+
+### Hilos familiares en el contexto chino
+
+| Hilo | Relación con CommonBody |
+|------|-------------------------|
+| Largos «posts de experiencia» en foros (desde los 2000) | Convertir mensajes dispersos en un sitio estructurado y duradero |
+| Escritos populares sobre dieta y cuidados cotidianos | Sueño, comida, hábito intestinal — tradición continua; enfatizamos límites no médicos |
+| Creadores pacientes en redes sociales | CommonBody más como infraestructura: sitio duradero, [voluntarios](/volunteers), curación |
+
+### Lecciones que tomamos en serio
+
+Los remedios populares mezclan ayuda y error; algunos «supervivientes» venden cursos; los posts se hunden. CommonBody traza límites con **avisos legales, sin ánimo de lucro, casos graves al médico, revisión editorial**.
+
+> La cirugía salva lo urgente; los hábitos nutren la raíz. Casos graves: acuda al médico. En molestias leves o recurrentes, la experiencia entre pares puede evitar algunos tropiezos.
+
+## 8. Relación con 「滚蛋吧痔疮君」
 
 | | Goodbye Hemorrhoids (2015) | CommonBody (2026—) |
 |--|---------------------------|-------------------|
@@ -82,7 +114,7 @@ CommonBody es poner estas ideas en práctica:
 
 La app fue la semilla, el sitio el árbol.
 
-## 8. Para quienes vengan después
+## 9. Para quienes vengan después
 
 CommonBody no es por fama, tráfico ni reemplazar médicos.
 

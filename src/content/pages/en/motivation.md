@@ -72,7 +72,39 @@ CommonBody (*共同体*, "common body" / community) is my effort to put these id
 
 > **Every recovered patient can become a light for others.**
 
-## 7. Relationship to 「滚蛋吧痔疮君」
+## 7. Where This Fits in History
+
+CommonBody is not the first peer-support effort, nor the first site to share recovery experience. For centuries, people who walked through the dark have lit a path for those behind them—from word of mouth, to letters in newspapers, to long forum posts. We want to use today's tools (a website, open collaboration, review, and clear disclaimers) to make this work last longer, read clearer, and mislead less.
+
+**CommonBody sits at the crossroads of grassroots patient mutual aid and open public knowledge**—using a 21st-century website and short video to continue something that has been happening for hundreds of years.
+
+### Peers teaching peers
+
+History has long known a pattern: **those who have walked the road help those still on it**. Alcoholics Anonymous, HIV/AIDS community self-help, disease-specific support groups, and China's village tradition of "same illness, shared advice" all share the same logic. Only the medium changed—from the village gate and hospital corridor to commonbody.org.
+
+### Private suffering turned into public knowledge
+
+Patient memoirs, early 20th-century health columns, Sun Simiao collecting folk remedies—all gathered scattered experience **into knowledge that could spread**. Publishing six surgeries and building this site is the same recurring story: **one person's chart becoming a reference book for many**. Once it was woodblock prints and magazines; now it is a website.
+
+### Non-profit, open knowledge
+
+Enlightenment pamphlets, workers' mutual-aid societies, the open-source software movement, Wikipedia—the thread is long: **put useful things within reach of many, without profiting from the gate**. The "Human Open Source Health Project" extends that spirit to lived health experience.
+
+### Familiar threads in the Chinese context
+
+| Thread | Relation to CommonBody |
+|--------|------------------------|
+| Long "experience posts" on forums (from the 2000s) | We upgrade scattered, hard-to-find posts into a structured, lasting public-good site |
+| Folk diet and daily-care writing (across generations) | Sleep, food, and bowel habits fit that tradition; we stress clear non-medical boundaries |
+| Patient creators on social media (recent years) | CommonBody is closer to public-good infrastructure: lasting site, [volunteers](/volunteers), curation |
+
+### Lessons we take seriously
+
+Folk remedies mix help and harm; some "survivors" sell courses or products; forum posts sink and disappear. CommonBody draws lines with **disclaimers, non-profit status, "severe cases need a doctor," and editorial review**.
+
+> Surgery can buy urgency; daily habits nurture the root. Severe cases need medical care; for mild or recurring troubles, peer experience may help you avoid a few wrong turns.
+
+## 8. Relationship to 「滚蛋吧痔疮君」
 
 | | Goodbye Hemorrhoids (2015) | CommonBody (2026—) |
 |--|---------------------------|-------------------|
@@ -85,7 +117,7 @@ CommonBody (*共同体*, "common body" / community) is my effort to put these id
 The app was the seed; the website is the tree.  
 The same motivation, in a different era, keeps growing in a different form.
 
-## 8. To Those Who Come After
+## 9. To Those Who Come After
 
 If you are reading this—visitor, contributor, or future maintainer:
 

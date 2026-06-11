@@ -70,7 +70,39 @@ CommonBody là thực hành những ý tưởng trên:
 
 > **Every recovered patient can become a light for others.**
 
-## 7. Quan hệ với 「滚蛋吧痔疮君」
+## 7. Vị trí trong lịch sử
+
+CommonBody không phải nỗ lực hỗ trợ đồng đẳng đầu tiên, cũng không phải trang chia sẻ kinh nghiệm hồi phục đầu tiên. Hàng thế kỷ, người đi qua đêm tối đã thắp đèn cho người đi sau — từ truyền miệng, thư báo độc giả, đến bài dài trên diễn đàn. Chúng tôi muốn dùng công cụ hôm nay (website, hợp tác mở, biên tập và miễn trừ trách nhiệm) để việc này bền hơn, rõ hơn, ít gây hiểu lầm hơn.
+
+**CommonBody đứng ở giao điểm của tương trợ bệnh nhân dân gian và tri thức công khai mở** — website và video ngắn thế kỷ 21 tiếp nối điều đã diễn ra hàng trăm năm.
+
+### Người hồi phục dẫn dắt người hồi phục
+
+Lịch sử lâu nay có mô thức: **người đã đi hết đường giúp người còn đang đi**. AA, tự cứu cộng đồng HIV/AIDS, nhóm bệnh mạn, truyền thống «cùng bệnh, chia kinh nghiệm» ở làng Trung Quốc — cùng logic, chỉ khác phương tiện: từ cổng làng, hành lang bệnh viện đến commonbody.org.
+
+### Đau khổ riêng thành tri thức công
+
+Hồi ký bệnh nhân, mục sức khỏe báo chí, thu thập phương dân — đều gom kinh nghiệm rời rạc **thành tri thức có thể lan truyền**. Công bố sáu lần phẫu thuật và dựng trang này là câu chuyện lặp lại: **hồ sơ một người thành sách tham khảo cho nhiều người.**
+
+### Tri thức mở, phi lợi nhuận
+
+Sách nhỏ thời Khai sáng, hội tương trợ công nhân, phần mềm mã nguồn mở, Wikipedia — dòng dài: **đưa điều hữu ích đến nhiều người mà không kiếm tiền ở cửa**. «Dự án sức khỏe mã nguồn mở nhân loại» mở rộng tinh thần đó sang kinh nghiệm sức khỏe đời thường.
+
+### Những điều quen thuộc trong bối cảnh Trung Quốc
+
+| Mạch | Liên hệ với CommonBody |
+|------|------------------------|
+| «Bài kinh nghiệm dài» trên diễn đàn (từ những năm 2000) | Nâng bài rời rạc thành trang công ích có cấu trúc, bền vững |
+| Viết dân gian về dinh dưỡng, chăm sóc | Giấc ngủ, ăn uống, đại tiện — truyền thống tiếp nối; nhấn mạnh ranh giới phi y khoa |
+| Blogger bệnh nhân gần đây | CommonBody thiên về hạ tầng công ích: trang lưu trữ, [tuyển tình nguyện viên](/volunteers), duy trì lâu dài |
+
+### Bài học cần cảnh giác
+
+Phương dân có cả đúng và sai; có người bán khóa học dưới danh «người từng trải»; bài diễn đàn chìm. CommonBody vạch ranh giới bằng **miễn trừ trách nhiệm, phi lợi nhuận, bệnh nặng phải khám, biên tập nội dung**.
+
+> Phẫu thuật cứu cấp; thói quen nuôi gốc. Bệnh nặng: đi khám. Bệnh nhẹ hoặc tái phát, kinh nghiệm đồng đẳng có thể giúp tránh vài cạm bẫy.
+
+## 8. Quan hệ với 「滚蛋吧痔疮君」
 
 | | Goodbye Hemorrhoids (2015) | CommonBody (2026—) |
 |--|---------------------------|-------------------|
@@ -82,7 +114,7 @@ CommonBody là thực hành những ý tưởng trên:
 
 App là hạt giống, website là cây.
 
-## 8. Gửi người đi sau
+## 9. Gửi người đi sau
 
 CommonBody không vì danh tiếng, traffic hay thay bác sĩ.
 
