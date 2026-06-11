@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "مشروع صحة مفتوح المصدر للبشرية",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "مشروع صحة عامة غير ربحي"
+  },
+  "nav": {
+    "story": "قصة المؤلف",
+    "guide": "دليل العناية",
+    "motivation": "الدافع",
+    "contribute": "المساهمة",
+    "about": "عن المشروع"
+  },
+  "alert": {
+    "label": "مهم:",
+    "body": "غير مناسب للحالات الشديدة — اطلب الرعاية الطبية فوراً. المحتوى للمرجعية فقط وليس نصيحة طبية."
+  },
+  "footer": {
+    "disclaimer": "إخلاء المسؤولية",
+    "privacy": "الخصوصية",
+    "contact": "اتصل بنا",
+    "note": "المحتوى من تجارب المرضى والمتعافين، غير موثق من مؤسسات طبية، ولا يُعد نصيحة طبية."
+  },
+  "home": {
+    "subtitle": "CommonBody · صحة مفتوحة المصدر",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "كل مريض يمكنه المساهمة بالمعرفة.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "كل متعافٍ يمكنه أن يكون نوراً للآخرين.",
+    "intro": "نشارك تجارب حقيقية ونفتح مصدر طرق العناية اليومية دون أدوية أو جراحة لتقليل المعاناة.",
+    "readStory": "اقرأ قصة المؤلف",
+    "readGuide": "اقرأ دليل العناية",
+    "contribute": "شارك تجربتك",
+    "motivationLabel": "الدافع",
+    "motivationTitle": "لماذا بدأنا",
+    "motivationDesc": "من أمنية في 2014، إلى تطبيق «滚蛋吧痔疮君»، إلى CommonBody اليوم — افعل الخير دون انتظار مكافأة.",
+    "storyLabel": "قصة المؤلف",
+    "storyTitle": "ست عمليات بواسير",
+    "storyDesc": "من ريف أنهوي إلى ست عمليات، ثم أكثر من عشر سنوات دون عملية أخرى — تجربة المؤلف ودروسه.",
+    "readMore": "اقرأ المزيد ←",
+    "modulesTitle": "وحدات الصحة",
+    "modulesCount": "{{count}} وحدة",
+    "moreModules": "مواضيع إضافية (آلام الظهر، الأرق، إلخ) قيد التخطيط. ساهم عبر",
+    "emailContribute": "البريد الإلكتروني",
+    "moreModulesEnd": "."
+  },
+  "module": {
+    "overview": "نظرة عامة",
+    "backToOverview": "→ العودة للنظرة العامة",
+    "readGuide": "← اقرأ الدليل"
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "body": "الصفحة المطلوبة غير موجودة.",
+    "back": "العودة للرئيسية"
+  },
+  "language": {
+    "label": "اللغة"
+  },
+  "fallback": {
+    "banner": "هذه الصفحة غير متوفرة بعد بـ{{language}}. يُعرض النص الصيني الأصلي.",
+    "viewZh": "النسخة الصينية",
+    "viewEn": "النسخة الإنجليزية"
+  }
+}

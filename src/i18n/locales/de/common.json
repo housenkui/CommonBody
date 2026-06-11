@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Human Open Source Health Project",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Gemeinnütziges Gesundheitsprojekt"
+  },
+  "nav": {
+    "story": "Autorenerfahrung",
+    "guide": "Pflegeleitfaden",
+    "motivation": "Motivation",
+    "contribute": "Mitwirken",
+    "about": "Über uns"
+  },
+  "alert": {
+    "label": "Wichtig:",
+    "body": "Nicht für schwere Fälle — sofort ärztliche Hilfe suchen. Die Inhalte dienen nur als Referenz und sind keine medizinische Beratung."
+  },
+  "footer": {
+    "disclaimer": "Haftungsausschluss",
+    "privacy": "Datenschutz",
+    "contact": "Kontakt",
+    "note": "Inhalte basieren auf Erfahrungen von Patienten und Genesenen, sind nicht von medizinischen Institutionen geprüft und stellen keine medizinische Beratung dar."
+  },
+  "home": {
+    "subtitle": "CommonBody · Human Open Source Health",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Jeder Patient kann Wissen beitragen.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Jeder Genesene kann ein Licht für andere sein.",
+    "intro": "Wir teilen echte Erfahrungen von Patienten und Genesenen und stellen alltägliche, nicht-medikamentöse und nicht-operative Methoden offen zur Verfügung, um Leid zu mindern.",
+    "readStory": "Autorenerfahrung lesen",
+    "readGuide": "Pflegeleitfaden lesen",
+    "contribute": "Erfahrung teilen",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "Warum wir starteten",
+    "motivationDesc": "Vom Wunsch 2014 über die App „Goodbye Hemorrhoids“ bis zu CommonBody heute — Gutes tun, ohne auf Belohnung zu warten.",
+    "storyLabel": "Author Story",
+    "storyTitle": "Sechs Hämorrhoiden-Operationen",
+    "storyDesc": "Vom ländlichen Nord-Anhui über sechs Operationen bis zu über einem Jahrzehnt ohne erneuten Eingriff — Erfahrung und Alltagspflege des Autors.",
+    "readMore": "Weiterlesen →",
+    "modulesTitle": "Gesundheitsmodule",
+    "modulesCount": "{{count}} Modul(e)",
+    "moreModules": "Weitere Themen (Rückenschmerzen, Schlafstörungen usw.) sind geplant. Mitwirken per",
+    "emailContribute": "E-Mail",
+    "moreModulesEnd": "willkommen."
+  },
+  "module": {
+    "overview": "Übersicht",
+    "backToOverview": "← Zurück zur Übersicht",
+    "readGuide": "Leitfaden lesen →"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "body": "Die angeforderte Seite existiert nicht.",
+    "back": "Zur Startseite"
+  },
+  "language": {
+    "label": "Sprache"
+  },
+  "fallback": {
+    "banner": "Diese Seite ist noch nicht auf {{language}} verfügbar. Es wird eine andere Sprachversion angezeigt.",
+    "viewZh": "Chinesische Version",
+    "viewEn": "Englische Version"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Dự án Sức khỏe Mã nguồn mở cho Nhân loại",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Dự án y tế cộng đồng phi lợi nhuận"
+  },
+  "nav": {
+    "story": "Trải nghiệm tác giả",
+    "guide": "Hướng dẫn chăm sóc",
+    "motivation": "Động lực sáng lập",
+    "contribute": "Đóng góp",
+    "about": "Giới thiệu"
+  },
+  "alert": {
+    "label": "Quan trọng:",
+    "body": "Không áp dụng cho trường hợp nặng — hãy đến cơ sở y tế ngay. Nội dung chỉ mang tính tham khảo, không phải tư vấn y khoa."
+  },
+  "footer": {
+    "disclaimer": "Miễn trừ trách nhiệm",
+    "privacy": "Chính sách bảo mật",
+    "contact": "Liên hệ",
+    "note": "Nội dung dựa trên kinh nghiệm bệnh nhân và người hồi phục, chưa được cơ quan y tế chứng nhận, không cấu thành tư vấn y khoa."
+  },
+  "home": {
+    "subtitle": "CommonBody · Dự án Sức khỏe Mã nguồn mở",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Mọi bệnh nhân đều có thể đóng góp kiến thức.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Mọi người hồi phục đều có thể trở thành ngọn đèn cho người đi sau.",
+    "intro": "Chúng tôi chia sẻ trải nghiệm thực tế, công khai phương pháp cải thiện hàng ngày không dùng thuốc, không phẫu thuật, giúp giảm đau khổ.",
+    "readStory": "Đọc trải nghiệm tác giả",
+    "readGuide": "Đọc hướng dẫn chăm sóc",
+    "contribute": "Chia sẻ kinh nghiệm",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "Động lực sáng lập",
+    "motivationDesc": "Từ ước mơ 2014, app Goodbye Hemorrhoids, đến CommonBody hôm nay — làm điều thiện, không hỏi về tương lai.",
+    "storyLabel": "Author Story",
+    "storyTitle": "Sáu lần phẫu thuật trĩ",
+    "storyDesc": "Từ nông thôn An Huy qua sáu ca mổ, hơn mười năm không mổ lại — kinh nghiệm và chăm sóc hàng ngày của tác giả.",
+    "readMore": "Đọc tiếp →",
+    "modulesTitle": "Mô-đun sức khỏe",
+    "modulesCount": "{{count}} mô-đun",
+    "moreModules": "Các chủ đề khác (đau lưng, mất ngủ...) đang lên kế hoạch. Đóng góp qua",
+    "emailContribute": "email",
+    "moreModulesEnd": "được hoan nghênh."
+  },
+  "module": {
+    "overview": "Tổng quan",
+    "backToOverview": "← Về tổng quan mô-đun",
+    "readGuide": "Đọc hướng dẫn →"
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "body": "Trang bạn yêu cầu không tồn tại.",
+    "back": "Về trang chủ"
+  },
+  "language": {
+    "label": "Ngôn ngữ"
+  },
+  "fallback": {
+    "banner": "Trang này chưa có bản {{language}}. Đang hiển thị ngôn ngữ khác.",
+    "viewZh": "Xem bản tiếng Trung giản thể",
+    "viewEn": "Xem bản tiếng Anh"
+  }
+}

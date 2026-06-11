@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "人類健康オープンソース計画",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "非営利の公益プロジェクト"
+  },
+  "nav": {
+    "story": "著者の経験",
+    "guide": "ケアガイド",
+    "motivation": "創設の想い",
+    "contribute": "投稿する",
+    "about": "概要"
+  },
+  "alert": {
+    "label": "重要：",
+    "body": "重症の方には適用できません。直ちに医療機関を受診してください。本サイトの内容は参考情報であり、医療アドバイスではありません。"
+  },
+  "footer": {
+    "disclaimer": "免責事項",
+    "privacy": "プライバシーポリシー",
+    "contact": "お問い合わせ",
+    "note": "内容は患者・回復者の経験に基づき、医療機関による認証は受けておらず、医療アドバイスを構成しません。"
+  },
+  "home": {
+    "subtitle": "CommonBody · 人類健康オープンソース計画",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "すべての患者が知識を共有できる。",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "すべての回復者が、後から来る人の灯りになれる。",
+    "intro": "患者と回復者の実体験を共有し、薬や手術に頼らない日常の改善法をオープンソース化し、多くの人の苦しみを減らすことを目指します。",
+    "readStory": "著者の経験を読む",
+    "readGuide": "ケアガイドを読む",
+    "contribute": "経験を共有する",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "創設の想い",
+    "motivationDesc": "2014年の願いからアプリ「滚蛋吧痔疮君」、そして今日の CommonBodyへ——善行をなし、報いを問わず。",
+    "storyLabel": "Author Story",
+    "storyTitle": "痔の手術を6回受けた経験",
+    "storyDesc": "安徽北部の農村から6回の手術、そして10年以上再手術なし——著者自身の経験と教訓。",
+    "readMore": "全文を読む →",
+    "modulesTitle": "健康モジュール",
+    "modulesCount": "{{count}} モジュール",
+    "moreModules": "腰痛・不眠などのテーマは計画中です。",
+    "emailContribute": "メールで投稿",
+    "moreModulesEnd": "を歓迎します。"
+  },
+  "module": {
+    "overview": "概要",
+    "backToOverview": "← モジュール概要に戻る",
+    "readGuide": "ガイドを読む →"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "body": "お探しのページは存在しません。",
+    "back": "ホームに戻る"
+  },
+  "language": {
+    "label": "言語"
+  },
+  "fallback": {
+    "banner": "このページは{{language}}版がまだありません。別の言語で表示しています。",
+    "viewZh": "中国語版を見る",
+    "viewEn": "英語版を見る"
+  }
+}

@@ -1,6 +1,6 @@
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { Link } from 'react-router-dom'
+import { LocalizedLink } from './LocalizedLink'
 
 interface MarkdownContentProps {
   content: string
@@ -14,7 +14,7 @@ export function MarkdownContent({ content }: MarkdownContentProps) {
         components={{
           a: ({ href, children }) => {
             if (href?.startsWith('/')) {
-              return <Link to={href}>{children}</Link>
+              return <LocalizedLink to={href}>{children}</LocalizedLink>
             }
             return (
               <a href={href} target="_blank" rel="noopener noreferrer">

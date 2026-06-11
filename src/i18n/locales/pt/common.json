@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Projeto de saúde open source para a humanidade",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Projeto de saúde pública sem fins lucrativos"
+  },
+  "nav": {
+    "story": "História do autor",
+    "guide": "Guia de cuidados",
+    "motivation": "Motivação",
+    "contribute": "Contribuir",
+    "about": "Sobre"
+  },
+  "alert": {
+    "label": "Importante:",
+    "body": "Não indicado para casos graves — procure atendimento médico imediatamente. O conteúdo é apenas referência e não constitui orientação médica."
+  },
+  "footer": {
+    "disclaimer": "Aviso legal",
+    "privacy": "Privacidade",
+    "contact": "Contato",
+    "note": "Conteúdo compilado de experiências de pacientes e recuperados, não verificado por instituições médicas, e não constitui orientação médica."
+  },
+  "home": {
+    "subtitle": "CommonBody · Saúde open source",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Todo paciente pode contribuir com conhecimento.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Todo recuperado pode ser uma luz para os outros.",
+    "intro": "Compartilhamos experiências reais e abrimos métodos diários sem medicamentos nem cirurgia para reduzir o sofrimento.",
+    "readStory": "Ler história do autor",
+    "readGuide": "Ler guia de cuidados",
+    "contribute": "Compartilhe sua experiência",
+    "motivationLabel": "Motivação",
+    "motivationTitle": "Por que começamos",
+    "motivationDesc": "De um desejo em 2014, ao app «滚蛋吧痔疮君», ao CommonBody hoje — fazer o bem sem pedir recompensa.",
+    "storyLabel": "História do autor",
+    "storyTitle": "Seis cirurgias de hemorroidas",
+    "storyDesc": "Do interior de Anhui a seis cirurgias e mais de uma década sem outra — experiência e lições do autor.",
+    "readMore": "Leia mais →",
+    "modulesTitle": "Módulos de saúde",
+    "modulesCount": "{{count}} módulo(s)",
+    "moreModules": "Mais temas (dor nas costas, insônia, etc.) estão planejados. Contribua por",
+    "emailContribute": "e-mail",
+    "moreModulesEnd": "."
+  },
+  "module": {
+    "overview": "Visão geral",
+    "backToOverview": "← Voltar à visão geral",
+    "readGuide": "Ler guia →"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "body": "A página solicitada não existe.",
+    "back": "Voltar ao início"
+  },
+  "language": {
+    "label": "Idioma"
+  },
+  "fallback": {
+    "banner": "Esta página ainda não está disponível em {{language}}. Mostrando o original em chinês.",
+    "viewZh": "Versão em chinês",
+    "viewEn": "Versão em inglês"
+  }
+}

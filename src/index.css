@@ -29,6 +29,16 @@ body {
   line-height: 1.6;
 }
 
+[dir='rtl'] body {
+  font-family: 'Segoe UI', 'Noto Sans Arabic', 'Tahoma', 'Arial', sans-serif;
+}
+
+/* Keep embedded Latin (code, URLs) readable inside Arabic paragraphs */
+[dir='rtl'] .prose-cb code {
+  direction: ltr;
+  unicode-bidi: embed;
+}
+
 #root {
   min-height: 100vh;
   display: flex;
@@ -64,7 +74,7 @@ body {
 .prose-cb ul,
 .prose-cb ol {
   margin-bottom: 0.75rem;
-  padding-left: 1.5rem;
+  padding-inline-start: 1.5rem;
 }
 
 .prose-cb li {
@@ -72,11 +82,14 @@ body {
 }
 
 .prose-cb blockquote {
-  border-left: 4px solid var(--color-cb-accent);
+  border-inline-start: 4px solid var(--color-cb-accent);
   padding: 0.75rem 1rem;
   margin: 1rem 0;
   background: #dafbe1;
-  border-radius: 0 6px 6px 0;
+  border-start-start-radius: 0;
+  border-start-end-radius: 0;
+  border-end-start-radius: 6px;
+  border-end-end-radius: 6px;
   color: var(--color-cb-text);
 }
 
@@ -95,7 +108,7 @@ body {
 .prose-cb td {
   border: 1px solid var(--color-cb-border);
   padding: 0.5rem 0.75rem;
-  text-align: left;
+  text-align: start;
 }
 
 .prose-cb th {

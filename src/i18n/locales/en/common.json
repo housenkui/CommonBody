@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Human Open Source Health Project",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Non-profit public health project"
+  },
+  "nav": {
+    "story": "Author Story",
+    "guide": "Care Guide",
+    "motivation": "Motivation",
+    "contribute": "Contribute",
+    "about": "About"
+  },
+  "alert": {
+    "label": "Important:",
+    "body": "Not for severe cases — seek medical care immediately. Content is for reference only and is not medical advice."
+  },
+  "footer": {
+    "disclaimer": "Disclaimer",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "note": "Content is compiled from patient experiences, not verified by medical institutions, and does not constitute medical advice."
+  },
+  "home": {
+    "subtitle": "CommonBody · Human Open Source Health",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Every patient can contribute knowledge.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Every recovered patient can become a light for others.",
+    "intro": "We share real experiences from patients and survivors, open-source non-drug, non-surgical daily care methods to help people reduce suffering.",
+    "readStory": "Read Author Story",
+    "readGuide": "Read Care Guide",
+    "contribute": "Share Your Experience",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "Why We Started",
+    "motivationDesc": "From a wish in 2014, to the app \"Goodbye Hemorrhoids\", to CommonBody today — do good without asking for reward.",
+    "storyLabel": "Author Story",
+    "storyTitle": "Six Hemorrhoid Surgeries",
+    "storyDesc": "From rural Anhui to six surgeries, then over a decade without another — the author's firsthand experience and lessons.",
+    "readMore": "Read more →",
+    "modulesTitle": "Health Modules",
+    "modulesCount": "{{count}} module(s)",
+    "moreModules": "More topics (back pain, insomnia, etc.) are planned. Contribute via",
+    "emailContribute": "email",
+    "moreModulesEnd": "."
+  },
+  "module": {
+    "overview": "Overview",
+    "backToOverview": "← Back to overview",
+    "readGuide": "Read guide →"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you requested does not exist.",
+    "back": "Back to home"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "fallback": {
+    "banner": "This page is not yet available in {{language}}. Showing the Chinese original.",
+    "viewZh": "View Chinese version",
+    "viewEn": "View English version"
+  }
+}

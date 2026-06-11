@@ -1,15 +1,17 @@
-import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import type { Module } from '../content/modules'
+import { LocalizedLink } from './LocalizedLink'
 
 interface ModuleCardProps {
   module: Module
 }
 
 export function ModuleCard({ module }: ModuleCardProps) {
+  const { t } = useTranslation()
   const { meta } = module
 
   return (
-    <Link
+    <LocalizedLink
       to={`/modules/${meta.id}`}
       className="group block rounded-lg border border-cb-border bg-cb-surface p-5 no-underline shadow-sm transition-shadow hover:shadow-md"
     >
@@ -36,8 +38,8 @@ export function ModuleCard({ module }: ModuleCardProps) {
       </div>
 
       <p className="mt-4 text-sm text-cb-link group-hover:underline">
-        阅读指南 →
+        {t('module.readGuide')}
       </p>
-    </Link>
+    </LocalizedLink>
   )
 }

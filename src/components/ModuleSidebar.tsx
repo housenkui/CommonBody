@@ -1,5 +1,6 @@
-import { NavLink } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import type { Module } from '../content/modules'
+import { LocalizedNavLink } from './LocalizedLink'
 
 interface ModuleSidebarProps {
   module: Module
@@ -14,6 +15,7 @@ const linkClass = ({ isActive }: { isActive: boolean }) =>
   ].join(' ')
 
 export function ModuleSidebar({ module }: ModuleSidebarProps) {
+  const { t } = useTranslation()
   const { meta, sections } = module
 
   return (
@@ -22,17 +24,17 @@ export function ModuleSidebar({ module }: ModuleSidebarProps) {
         {meta.title}
       </p>
       <nav className="flex flex-col gap-0.5">
-        <NavLink to={`/modules/${meta.id}`} end className={linkClass}>
-          概述
-        </NavLink>
+        <LocalizedNavLink to={`/modules/${meta.id}`} end className={linkClass}>
+          {t('module.overview')}
+        </LocalizedNavLink>
         {sections.map((section) => (
-          <NavLink
+          <LocalizedNavLink
             key={section.slug}
             to={`/modules/${meta.id}/${section.slug}`}
             className={linkClass}
           >
             {section.title}
-          </NavLink>
+          </LocalizedNavLink>
         ))}
       </nav>
     </aside>

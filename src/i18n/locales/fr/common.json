@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Projet de santé open source pour l'humanité",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Projet de santé à but non lucratif"
+  },
+  "nav": {
+    "story": "Récit de l'auteur",
+    "guide": "Guide de soins",
+    "motivation": "Motivation",
+    "contribute": "Contribuer",
+    "about": "À propos"
+  },
+  "alert": {
+    "label": "Important :",
+    "body": "Ne convient pas aux cas graves — consultez un médecin immédiatement. Le contenu est à titre informatif uniquement et ne constitue pas un avis médical."
+  },
+  "footer": {
+    "disclaimer": "Avertissement",
+    "privacy": "Confidentialité",
+    "contact": "Contact",
+    "note": "Contenu basé sur l'expérience de patients et de personnes guéries, non validé par des institutions médicales, ne constitue pas un avis médical."
+  },
+  "home": {
+    "subtitle": "CommonBody · Santé open source",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Chaque patient peut contribuer à la connaissance.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Chaque personne guérie peut être une lumière pour les autres.",
+    "intro": "Nous partageons des expériences réelles et mettons en open source des méthodes quotidiennes sans médicaments ni chirurgie pour réduire la souffrance.",
+    "readStory": "Lire le récit de l'auteur",
+    "readGuide": "Lire le guide de soins",
+    "contribute": "Partager votre expérience",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "Pourquoi nous avons commencé",
+    "motivationDesc": "Du souhait de 2014 à l'app Goodbye Hemorrhoids, jusqu'à CommonBody aujourd'hui — faire le bien sans attendre de récompense.",
+    "storyLabel": "Author Story",
+    "storyTitle": "Six opérations des hémorroïdes",
+    "storyDesc": "De l'Anhui rural à six opérations, puis plus d'une décennie sans nouvelle intervention — expérience et soins quotidiens de l'auteur.",
+    "readMore": "Lire la suite →",
+    "modulesTitle": "Modules santé",
+    "modulesCount": "{{count}} module(s)",
+    "moreModules": "D'autres sujets (mal de dos, insomnie, etc.) sont prévus. Contribuez par",
+    "emailContribute": "e-mail",
+    "moreModulesEnd": "."
+  },
+  "module": {
+    "overview": "Aperçu",
+    "backToOverview": "← Retour à l'aperçu",
+    "readGuide": "Lire le guide →"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page demandée n'existe pas.",
+    "back": "Retour à l'accueil"
+  },
+  "language": {
+    "label": "Langue"
+  },
+  "fallback": {
+    "banner": "Cette page n'est pas encore disponible en {{language}}. Une autre langue est affichée.",
+    "viewZh": "Version chinoise simplifiée",
+    "viewEn": "Version anglaise"
+  }
+}

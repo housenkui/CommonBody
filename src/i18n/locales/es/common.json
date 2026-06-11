@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "Proyecto de salud de código abierto para la humanidad",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "Proyecto de salud sin fines de lucro"
+  },
+  "nav": {
+    "story": "Experiencia del autor",
+    "guide": "Guía de cuidados",
+    "motivation": "Motivación",
+    "contribute": "Contribuir",
+    "about": "Acerca de"
+  },
+  "alert": {
+    "label": "Importante:",
+    "body": "No apto para casos graves — busque atención médica de inmediato. El contenido es solo de referencia y no constituye asesoramiento médico."
+  },
+  "footer": {
+    "disclaimer": "Aviso legal",
+    "privacy": "Privacidad",
+    "contact": "Contacto",
+    "note": "Contenido basado en experiencias de pacientes y personas recuperadas, no verificado por instituciones médicas, no constituye asesoramiento médico."
+  },
+  "home": {
+    "subtitle": "CommonBody · Salud de código abierto",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "Cada paciente puede aportar conocimiento.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "Cada persona recuperada puede ser una luz para quienes vienen después.",
+    "intro": "Compartimos experiencias reales y publicamos métodos diarios sin medicamentos ni cirugía para ayudar a reducir el sufrimiento.",
+    "readStory": "Leer experiencia del autor",
+    "readGuide": "Leer guía de cuidados",
+    "contribute": "Compartir tu experiencia",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "Por qué empezamos",
+    "motivationDesc": "Del deseo de 2014 a la app Goodbye Hemorrhoids y CommonBody hoy — hacer el bien sin preguntar por la recompensa.",
+    "storyLabel": "Author Story",
+    "storyTitle": "Seis operaciones de hemorroides",
+    "storyDesc": "Del Anhui rural a seis cirugías y más de una década sin otra operación — experiencia y cuidados diarios del autor.",
+    "readMore": "Leer más →",
+    "modulesTitle": "Módulos de salud",
+    "modulesCount": "{{count}} módulo(s)",
+    "moreModules": "Más temas (dolor de espalda, insomnio, etc.) están planificados. Contribuye por",
+    "emailContribute": "correo",
+    "moreModulesEnd": "."
+  },
+  "module": {
+    "overview": "Resumen",
+    "backToOverview": "← Volver al resumen",
+    "readGuide": "Leer guía →"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "La página solicitada no existe.",
+    "back": "Volver al inicio"
+  },
+  "language": {
+    "label": "Idioma"
+  },
+  "fallback": {
+    "banner": "Esta página aún no está disponible en {{language}}. Se muestra otro idioma.",
+    "viewZh": "Versión en chino simplificado",
+    "viewEn": "Versión en inglés"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "인류 건강 오픈소스 프로젝트",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "비영리 공익 프로젝트"
+  },
+  "nav": {
+    "story": "저자의 경험",
+    "guide": "케어 가이드",
+    "motivation": "창립 취지",
+    "contribute": "기여하기",
+    "about": "소개"
+  },
+  "alert": {
+    "label": "중요:",
+    "body": "중증 환자에게는 적용되지 않습니다. 즉시 의료기관을 방문하세요. 본 사이트 내용은 참고용이며 의료 조언이 아닙니다."
+  },
+  "footer": {
+    "disclaimer": "면책 조항",
+    "privacy": "개인정보 처리방침",
+    "contact": "문의",
+    "note": "내용은 환자·회복자의 경험을 바탕으로 하며, 의료기관 인증을 받지 않았고 의료 조언을 구성하지 않습니다."
+  },
+  "home": {
+    "subtitle": "CommonBody · 인류 건강 오픈소스 프로젝트",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "모든 환자가 지식을 기여할 수 있다.",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "모든 회복자가 뒤따라올 이들의 등불이 될 수 있다.",
+    "intro": "환자와 회복자의 실제 경험을 공유하고, 약물·수술 없이 일상에서 개선하는 방법을 오픈소스로 제공하여 많은 이의 고통을 줄이고자 합니다.",
+    "readStory": "저자의 경험 읽기",
+    "readGuide": "케어 가이드 읽기",
+    "contribute": "경험 공유하기",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "창립 취지",
+    "motivationDesc": "2014년의 소망에서 앱 「滚蛋吧痔疮君」을 거쳐 오늘의 CommonBody까지——선행을 하되 앞날을 묻지 말라.",
+    "storyLabel": "Author Story",
+    "storyTitle": "치질 수술 6번의 경험",
+    "storyDesc": "안후이 북부 농촌에서 6번의 수술, 그 후 10년 넘게 재수술 없이——저자의 직접 경험과 교훈.",
+    "readMore": "전문 읽기 →",
+    "modulesTitle": "건강 모듈",
+    "modulesCount": "모듈 {{count}}개",
+    "moreModules": "요통·불면 등 더 많은 주제가 계획 중입니다.",
+    "emailContribute": "이메일로 기여",
+    "moreModulesEnd": "를 환영합니다."
+  },
+  "module": {
+    "overview": "개요",
+    "backToOverview": "← 모듈 개요로 돌아가기",
+    "readGuide": "가이드 읽기 →"
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "body": "요청하신 페이지가 존재하지 않습니다.",
+    "back": "홈으로 돌아가기"
+  },
+  "language": {
+    "label": "언어"
+  },
+  "fallback": {
+    "banner": "이 페이지는 {{language}} 버전이 아직 없습니다. 다른 언어로 표시하고 있습니다.",
+    "viewZh": "중국어 버전 보기",
+    "viewEn": "영어 버전 보기"
+  }
+}

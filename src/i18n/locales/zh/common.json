@@ -1,0 +1,65 @@
+{
+  "site": {
+    "subtitle": "人类健康开源计划",
+    "tagline": "Human Open Source Health Project",
+    "taglineZh": "人类健康开源计划 · 非盈利公益项目"
+  },
+  "nav": {
+    "story": "作者经历",
+    "guide": "护理指南",
+    "motivation": "发心",
+    "contribute": "贡献",
+    "about": "关于"
+  },
+  "alert": {
+    "label": "重要提示：",
+    "body": "重症患者不适用，必须立刻就医。本站内容仅供参考，不构成医疗建议。"
+  },
+  "footer": {
+    "disclaimer": "免责声明",
+    "privacy": "隐私政策",
+    "contact": "联系邮箱",
+    "note": "内容由患者经验整理，未经医学机构认证，不构成医疗建议。"
+  },
+  "home": {
+    "subtitle": "共同体 · 人类健康开源计划",
+    "mission1en": "Every patient can contribute knowledge.",
+    "mission1zh": "每一个患者都可以贡献知识。",
+    "mission2en": "Every recovered patient can become a light for others.",
+    "mission2zh": "每一个康复者都可以成为后来者的灯塔。",
+    "intro": "我们分享患者与康复者的真实经验，开源非药物、非手术的日常改善方法，帮助普通人减少疾病痛苦。",
+    "readStory": "阅读作者经历",
+    "readGuide": "阅读护理指南",
+    "contribute": "贡献你的经验",
+    "motivationLabel": "Motivation",
+    "motivationTitle": "发心",
+    "motivationDesc": "从 2014 年的愿望，到 App「滚蛋吧痔疮君」，再到今天的 CommonBody——但行好事，莫问前程。",
+    "storyLabel": "Author Story",
+    "storyTitle": "六次痔疮手术的经历",
+    "storyDesc": "从安徽北方农村到六次手术，再到十余年未再手术——作者亲笔撰写的真实经历与教训。",
+    "readMore": "阅读全文 →",
+    "modulesTitle": "健康模块",
+    "modulesCount": "{{count}} 个模块",
+    "moreModules": "更多主题（腰痛、失眠等）规划中，欢迎通过",
+    "emailContribute": "邮件投稿",
+    "moreModulesEnd": "。"
+  },
+  "module": {
+    "overview": "概述",
+    "backToOverview": "← 返回模块概述",
+    "readGuide": "阅读指南 →"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "body": "你访问的页面不存在。",
+    "back": "返回首页"
+  },
+  "language": {
+    "label": "语言"
+  },
+  "fallback": {
+    "banner": "此页面尚无{{language}}版本，当前显示中文原文。",
+    "viewZh": "查看中文版",
+    "viewEn": "查看英文版"
+  }
+}
