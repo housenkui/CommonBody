@@ -9,6 +9,7 @@
     "guide": "Care Guide",
     "motivation": "Motivation",
     "contribute": "Contribute",
+    "volunteers": "Volunteers",
     "about": "About"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "Language"
+  },
+  "volunteers": {
+    "label": "Volunteers",
+    "unavailableTitle": "Not available",
+    "unavailableBody": "Volunteer recruitment is currently available in Simplified Chinese only, for mainland China.",
+    "viewZh": "View Simplified Chinese version"
   },
   "fallback": {
     "banner": "This page is not yet available in {{language}}. Showing the Chinese original.",

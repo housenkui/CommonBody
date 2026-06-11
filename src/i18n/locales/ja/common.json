@@ -9,6 +9,7 @@
     "guide": "ケアガイド",
     "motivation": "創設の想い",
     "contribute": "投稿する",
+    "volunteers": "ボランティア募集",
     "about": "概要"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "言語"
+  },
+  "volunteers": {
+    "label": "ボランティア募集",
+    "unavailableTitle": "現在ありません",
+    "unavailableBody": "ボランティア募集の案内は現在、簡体字中国語（中国本土向け）のみ提供しています。",
+    "viewZh": "簡体字中国語版を見る"
   },
   "fallback": {
     "banner": "このページは{{language}}版がまだありません。別の言語で表示しています。",

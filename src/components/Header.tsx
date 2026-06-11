@@ -40,6 +40,9 @@ export function Header() {
             <LocalizedNavLink to="/contribute" className={navLinkClass}>
               {t('nav.contribute')}
             </LocalizedNavLink>
+            <LocalizedNavLink to="/volunteers" className={navLinkClass}>
+              {t('nav.volunteers')}
+            </LocalizedNavLink>
             <LocalizedNavLink to="/about" className={navLinkClass}>
               {t('nav.about')}
             </LocalizedNavLink>

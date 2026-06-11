@@ -9,6 +9,7 @@
     "guide": "護理指南",
     "motivation": "發心",
     "contribute": "貢獻",
+    "volunteers": "志願者招募",
     "about": "關於"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "語言"
+  },
+  "volunteers": {
+    "label": "志願者招募",
+    "unavailableTitle": "暫無",
+    "unavailableBody": "志願者招募說明目前僅提供簡體中文版本，面向中國大陸地區。",
+    "viewZh": "查看簡體中文招募說明"
   },
   "fallback": {
     "banner": "此頁面尚無{{language}}版本，當前顯示其他語言內容。",

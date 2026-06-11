@@ -9,6 +9,7 @@
     "guide": "Pflegeleitfaden",
     "motivation": "Motivation",
     "contribute": "Mitwirken",
+    "volunteers": "Freiwillige",
     "about": "Über uns"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "Sprache"
+  },
+  "volunteers": {
+    "label": "Freiwillige",
+    "unavailableTitle": "Derzeit nicht verfügbar",
+    "unavailableBody": "Die Freiwilligenrekrutierung ist derzeit nur auf Vereinfachtes Chinesisch (Festlandchina) verfügbar.",
+    "viewZh": "Vereinfachtes Chinesisch anzeigen"
   },
   "fallback": {
     "banner": "Diese Seite ist noch nicht auf {{language}} verfügbar. Es wird eine andere Sprachversion angezeigt.",

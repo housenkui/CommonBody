@@ -9,6 +9,7 @@
     "guide": "케어 가이드",
     "motivation": "창립 취지",
     "contribute": "기여하기",
+    "volunteers": "자원봉사 모집",
     "about": "소개"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "언어"
+  },
+  "volunteers": {
+    "label": "자원봉사 모집",
+    "unavailableTitle": "현재 없음",
+    "unavailableBody": "자원봉사 모집 안내는 현재 간체 중국어(중국 본토 대상)로만 제공됩니다.",
+    "viewZh": "간체 중국어 버전 보기"
   },
   "fallback": {
     "banner": "이 페이지는 {{language}} 버전이 아직 없습니다. 다른 언어로 표시하고 있습니다.",

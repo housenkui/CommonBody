@@ -9,6 +9,7 @@
     "guide": "Hướng dẫn chăm sóc",
     "motivation": "Động lực sáng lập",
     "contribute": "Đóng góp",
+    "volunteers": "Tuyển tình nguyện viên",
     "about": "Giới thiệu"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "Ngôn ngữ"
+  },
+  "volunteers": {
+    "label": "Tuyển tình nguyện viên",
+    "unavailableTitle": "Chưa có",
+    "unavailableBody": "Thông tin tuyển tình nguyện viên hiện chỉ có bản tiếng Trung giản thể, dành cho Trung Quốc đại lục.",
+    "viewZh": "Xem bản tiếng Trung giản thể"
   },
   "fallback": {
     "banner": "Trang này chưa có bản {{language}}. Đang hiển thị ngôn ngữ khác.",

@@ -9,6 +9,7 @@
     "guide": "Guia de cuidados",
     "motivation": "Motivação",
     "contribute": "Contribuir",
+    "volunteers": "Voluntários",
     "about": "Sobre"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "Idioma"
+  },
+  "volunteers": {
+    "label": "Voluntários",
+    "unavailableTitle": "Indisponível",
+    "unavailableBody": "O recrutamento de voluntários está disponível apenas em chinês simplificado, para a China continental.",
+    "viewZh": "Ver versão em chinês simplificado"
   },
   "fallback": {
     "banner": "Esta página ainda não está disponível em {{language}}. Mostrando o original em chinês.",

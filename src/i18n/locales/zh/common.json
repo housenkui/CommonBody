@@ -9,6 +9,7 @@
     "guide": "护理指南",
     "motivation": "发心",
     "contribute": "贡献",
+    "volunteers": "志愿者招募",
     "about": "关于"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "语言"
+  },
+  "volunteers": {
+    "label": "志愿者招募",
+    "unavailableTitle": "暂无",
+    "unavailableBody": "志愿者招募说明目前仅提供简体中文版本，面向中国大陆地区。",
+    "viewZh": "查看简体中文招募说明"
   },
   "fallback": {
     "banner": "此页面尚无{{language}}版本，当前显示中文原文。",

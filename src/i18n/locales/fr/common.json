@@ -9,6 +9,7 @@
     "guide": "Guide de soins",
     "motivation": "Motivation",
     "contribute": "Contribuer",
+    "volunteers": "Bénévoles",
     "about": "À propos"
   },
   "alert": {
@@ -56,6 +57,12 @@
   },
   "language": {
     "label": "Langue"
+  },
+  "volunteers": {
+    "label": "Bénévoles",
+    "unavailableTitle": "Non disponible",
+    "unavailableBody": "Le recrutement de bénévoles n'est disponible qu'en chinois simplifié, pour la Chine continentale.",
+    "viewZh": "Voir la version en chinois simplifié"
   },
   "fallback": {
     "banner": "Cette page n'est pas encore disponible en {{language}}. Une autre langue est affichée.",
