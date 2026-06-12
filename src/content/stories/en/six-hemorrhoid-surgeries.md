@@ -38,6 +38,8 @@ What helped more: after graduating in July 2014, when I had income, I could affo
 
 From January 2015 to March 2016 I was assigned to a regional commercial bank in Nanning, Guangxi. People there were kind; the cafeteria food was good. When the project team was exhausted I still got mild hemorrhoids sometimes. In that period I found that **one kiwi a day** eased symptoms. I discovered street herbal tea in Nanning—cooling, moistening the gut. I looked up formulas: monk fruit, sterculia seed, snow chrysanthemum, honeysuckle. From January 2015 to March 2016 I drank snow chrysanthemum long-term; the infusion was reddish and worked much better for me than other chrysanthemums. I also found **turtle jelly powder**—made into jelly with honey and coconut milk or milk—surprisingly good for heat and constipation.
 
+During that period I also found that **Kegel exercises** (contracting and relaxing the anal sphincter) helped—100–200 repetitions per set, 3–5 sets a day—which improved local blood circulation and eased symptoms.
+
 At work everyone used soft office chairs. After six surgeries I found I had to **support myself on my left heel** to sit at all—maybe muscle tissue on the left side of the anus had been removed. Since then I use **wooden chairs without cushions**, with a book about 2.5 cm thick under my left buttock, or I cannot sit. Driving, I also brace on my left heel.
 
 I was lucky to spend January 2015–March 2017 in Nanning, where winters are mild. Back in Anhui, winters are cold; several surgeries were tied to cold weather—thick warm pants compress blood vessels and reduce flow, which can trigger hemorrhoids.

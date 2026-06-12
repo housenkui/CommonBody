@@ -38,6 +38,8 @@ Mais: após formar em julho de 2014, com renda cozinhei sopa de costela — nutr
 
 De janeiro de 2015 a março de 2016 em Nanning (Guangxi), banco regional. **Um kiwi por dia** aliviava sintomas. Chá de ervas na rua — refrescante. Crisântemo da neve a longo prazo; infusão avermelhada melhor. **Pó de gelatina de tartaruga** com mel e leite de coco — ótimo para calor interno e constipação.
 
+Nesse período também descobri que **exercícios de contração anal** (Kegel) ajudavam: 100–200 repetições por série, 3–5 séries por dia — melhoram a circulação local e aliviam sintomas.
+
 No trabalho, cadeiras macias para todos. Após seis cirurgias precisei **apoiar-me no calcanhar esquerdo** para sentar. Desde então **cadeira de madeira sem almofada**, livro ~2,5 cm sob o glúteo esquerdo.
 
 Tive sorte de passar janeiro 2015–março 2017 em Nanning com invernos amenos. Em Anhui, frio; várias cirurgias ligadas ao frio — calças grossas comprimem vasos.

@@ -38,6 +38,8 @@ Mieux encore : après le diplôme en juillet 2014, avec un revenu, j'ai pu cuisi
 
 De janvier 2015 à mars 2016 à Nanning (Guangxi), dans une banque régionale. **Un kiwi par jour** atténuait les symptômes. Thé aux herbes de rue — refroidissant. Chrysanthème des neiges long terme ; infusion rougeâtre, meilleur pour moi. **Poudre de gelée de tortue** avec miel et lait de coco — très bon pour la chaleur et la constipation.
 
+À cette époque, j'ai aussi constaté l'effet des **exercices de contraction anale** (Kegel) : 100 à 200 répétitions par série, 3 à 5 séries par jour — utiles pour la circulation locale et l'atténuation des symptômes.
+
 Au travail, chaises molles partout. Après six opérations, je devais **me soutenir sur le talon gauche** pour m'asseoir. Depuis : **chaise en bois sans coussin**, livre ~2,5 cm sous les fesses gauches. En voiture, même appui.
 
 Chance d'être à Nanning janvier 2015–mars 2017, hivers doux. En Anhui, froid ; plusieurs opérations liées au froid — pantalons épais compriment les vaisseaux.

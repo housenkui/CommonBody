@@ -38,6 +38,8 @@ Más aún: tras graduarme en julio 2014, con ingresos pude cocinar sopa de costi
 
 De enero 2015 a marzo 2016 en Nanning (Guangxi), en un banco regional. **Un kiwi al día** aliviaba síntomas. Té de hierbas en la calle — refrescante. Crisantemo de nieve a largo plazo; infusión rojiza, mejor para mí. **Polvo de gelatina de tortuga** con miel y leche de coco — muy bueno para calor interno y estreñimiento.
 
+En ese periodo también noté que los **ejercicios de contracción anal** (Kegel) ayudaban: 100–200 repeticiones por serie, 3–5 series al día, mejoran la circulación local y alivian los síntomas.
+
 En el trabajo, sillas blandas para todos. Tras seis operaciones, debía **apoyarme en el talón izquierdo** para sentarme. Desde entonces: **silla de madera sin cojín**, libro ~2,5 cm bajo el glúteo izquierdo. Al conducir, igual.
 
 Suerte de estar en Nanning enero 2015–marzo 2017, inviernos suaves. En Anhui, frío; varias operaciones ligadas al frío — pantalones gruesos comprimen vasos.

@@ -38,6 +38,8 @@ Mehr half: nach dem Abschluss im Juli 2014, mit Einkommen, konnte ich Töpfe und
 
 Januar 2015 bis März 2016 war ich bei einer Regionalbank in Nanning, Guangxi. Die Menschen waren freundlich; die Kantine gut. Bei Überarbeitung des Teams kamen leichte Hämorrhoiden vor — aber **eine Kiwi täglich** linderte. Ich fand Straßen-Kräutertee — kühlend, den Darm befeuchtend. Rezepturen: Mönchsfrucht, Sterculia-Samen, Schnee-Chrysantheme, Geißblatt. Langzeit Schnee-Chrysantheme; die Infusion war rötlich und wirkte für mich viel besser als andere Chrysanthemen. Auch **Schildkröten-Gelee-Pulver** — mit Honig und Kokosmilch oder Milch — überraschend gut gegen „Hitze“ und Verstopfung.
 
+In dieser Zeit halfen mir auch **Analübungen** (Beckenboden-/Schließmuskelübungen) — 100–200 Wiederholungen pro Satz, 3–5 Sätze täglich — für die lokale Durchblutung und Linderung der Symptome.
+
 Im Büro saßen alle auf weichen Stühlen. Nach sechs Operationen musste ich mich auf die **linke Ferse stützen**, um zu sitzen — vielleicht war Gewebe links am Anus entfernt worden. Seitdem nur **Holzstühle ohne Polster**, unter dem linken Gesäß ein Buch von etwa 2,5 cm — sonst unerträglich. Beim Fahren ebenfalls linke Ferse als Stütze.
 
 Glücklich war ich, Januar 2015 bis März 2017 in Nanning zu sein — milde Winter. In Anhui sind Winter kalt; mehrere Operationen hingen mit Kälte zusammen — dicke warme Hosen drücken Gefäße, Blutfluss wird schlechter.

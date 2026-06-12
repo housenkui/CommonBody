@@ -34,6 +34,8 @@ Trĩ tái đi tái lại; nhiều mổ trong hai năm khiến tôi trầm cảm.
 
 1/2015–3/2016 ở Nam Ninh: **một kiwi mỗi ngày** giảm triệu chứng; trà lương giải nhiệt; trà tuyết cúc lâu dài; bột quy linh cao với mật ong và sữa dừa — rất tốt.
 
+Trong thời gian đó tôi cũng thấy **bài tập co thắt hậu môn** (Kegel) có hiệu quả: 100–200 lần mỗi hiệp, 3–5 hiệp mỗi ngày, giúp tuần hoàn máu tại chỗ và giảm triệu chứng.
+
 Sau sáu ca mổ phải **chống gót trái** để ngồi; dùng ghế gỗ không đệm, kê sách dưới mông trái ~2,5 cm.
 
 2015–2017 ở Nam Ninh — đông ấm; An Huy lạnh, quần dày ép mạch máu dễ trĩ.
