@@ -12,6 +12,16 @@
 
 [CommonBody.org](https://commonbody.org) 是一个非盈利公益网站，分享患者与康复者的真实经验，开源非药物、非手术的日常改善方法。
 
+### 阅读作者经历（抖音 / 微信推荐入口）
+
+部分平台可能无法直接打开 `commonbody.org`，可通过 **GitHub** 阅读完整 Markdown 原文（与官网同步）：
+
+- **[六次痔疮手术的经历（简体全文）](https://github.com/housenkui/CommonBody/blob/main/src/content/stories/six-hemorrhoid-surgeries.md)** ← 抖音可分享此链
+- [护理指南模块](https://github.com/housenkui/CommonBody/tree/main/src/content/modules/gut-care)
+- [志愿者招募说明](https://github.com/housenkui/CommonBody/blob/main/docs/VOLUNTEERS-CN.md)
+
+> 官网：https://commonbody.org · 仓库：https://github.com/housenkui/CommonBody
+
 ## 技术栈
 
 - [Vite](https://vite.dev/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
