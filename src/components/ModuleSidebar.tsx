@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { useLocale } from '../hooks/useLocale'
 import type { Module } from '../content/modules'
 import { LocalizedNavLink } from './LocalizedLink'
 
@@ -16,6 +17,7 @@ const linkClass = ({ isActive }: { isActive: boolean }) =>
 
 export function ModuleSidebar({ module }: ModuleSidebarProps) {
   const { t } = useTranslation()
+  const { locale } = useLocale()
   const { meta, sections } = module
 
   return (
@@ -36,6 +38,11 @@ export function ModuleSidebar({ module }: ModuleSidebarProps) {
             {section.title}
           </LocalizedNavLink>
         ))}
+        {meta.id === 'gut-care' && locale === 'zh' && (
+          <LocalizedNavLink to="/exam/gut-care" className={linkClass}>
+            {t('exam.sidebar')}
+          </LocalizedNavLink>
+        )}
       </nav>
     </aside>
   )

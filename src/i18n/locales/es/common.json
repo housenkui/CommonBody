@@ -64,6 +64,12 @@
     "unavailableBody": "El reclutamiento de voluntarios solo está disponible en chino simplificado, para China continental.",
     "viewZh": "Ver versión en chino simplificado"
   },
+  "exam": {
+    "label": "Autoevaluación",
+    "unavailableTitle": "No disponible",
+    "unavailableBody": "La autoevaluación solo está disponible en chino simplificado por ahora.",
+    "viewZh": "Ver versión en chino simplificado"
+  },
   "fallback": {
     "banner": "Esta página aún no está disponible en {{language}}. Se muestra otro idioma.",
     "viewZh": "Versión en chino simplificado",

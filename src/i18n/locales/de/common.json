@@ -64,6 +64,12 @@
     "unavailableBody": "Die Freiwilligenrekrutierung ist derzeit nur auf Vereinfachtes Chinesisch (Festlandchina) verfügbar.",
     "viewZh": "Vereinfachtes Chinesisch anzeigen"
   },
+  "exam": {
+    "label": "Pflege-Selbsttest",
+    "unavailableTitle": "Derzeit nicht verfügbar",
+    "unavailableBody": "Der Pflege-Selbsttest ist derzeit nur auf Vereinfachtes Chinesisch verfügbar.",
+    "viewZh": "Vereinfachtes Chinesisch anzeigen"
+  },
   "fallback": {
     "banner": "Diese Seite ist noch nicht auf {{language}} verfügbar. Es wird eine andere Sprachversion angezeigt.",
     "viewZh": "Chinesische Version",

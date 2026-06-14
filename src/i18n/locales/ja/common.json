@@ -64,6 +64,12 @@
     "unavailableBody": "ボランティア募集の案内は現在、簡体字中国語（中国本土向け）のみ提供しています。",
     "viewZh": "簡体字中国語版を見る"
   },
+  "exam": {
+    "label": "ケア自習テスト",
+    "unavailableTitle": "現在ありません",
+    "unavailableBody": "ケア自習テストは現在、簡体字中国語のみ提供しています。",
+    "viewZh": "簡体字中国語版を見る"
+  },
   "fallback": {
     "banner": "このページは{{language}}版がまだありません。別の言語で表示しています。",
     "viewZh": "中国語版を見る",

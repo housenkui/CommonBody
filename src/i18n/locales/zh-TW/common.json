@@ -64,6 +64,12 @@
     "unavailableBody": "志願者招募說明目前僅提供簡體中文版本，面向中國大陸地區。",
     "viewZh": "查看簡體中文招募說明"
   },
+  "exam": {
+    "label": "護理自測",
+    "unavailableTitle": "暫無",
+    "unavailableBody": "護理自測目前僅提供簡體中文版本。",
+    "viewZh": "查看簡體中文自測"
+  },
   "fallback": {
     "banner": "此頁面尚無{{language}}版本，當前顯示其他語言內容。",
     "viewZh": "查看簡體中文版",

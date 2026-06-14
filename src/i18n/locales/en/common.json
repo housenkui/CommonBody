@@ -64,6 +64,12 @@
     "unavailableBody": "Volunteer recruitment is currently available in Simplified Chinese only, for mainland China.",
     "viewZh": "View Simplified Chinese version"
   },
+  "exam": {
+    "label": "Care self-quiz",
+    "unavailableTitle": "Not available",
+    "unavailableBody": "The care self-quiz is currently available in Simplified Chinese only.",
+    "viewZh": "View Simplified Chinese quiz"
+  },
   "fallback": {
     "banner": "This page is not yet available in {{language}}. Showing the Chinese original.",
     "viewZh": "View Chinese version",

@@ -22,3 +22,4 @@
 - [餐食推荐](/modules/gut-care/meals)
 - [生活习惯](/modules/gut-care/lifestyle)
 - [护理思维导图](/modules/gut-care/mindmap)
+- [护理自测（30 题）](/exam/gut-care)

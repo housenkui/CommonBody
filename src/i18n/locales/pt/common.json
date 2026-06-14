@@ -64,6 +64,12 @@
     "unavailableBody": "O recrutamento de voluntários está disponível apenas em chinês simplificado, para a China continental.",
     "viewZh": "Ver versão em chinês simplificado"
   },
+  "exam": {
+    "label": "Autoavaliação",
+    "unavailableTitle": "Indisponível",
+    "unavailableBody": "A autoavaliação está disponível apenas em chinês simplificado no momento.",
+    "viewZh": "Ver versão em chinês simplificado"
+  },
   "fallback": {
     "banner": "Esta página ainda não está disponível em {{language}}. Mostrando o original em chinês.",
     "viewZh": "Versão em chinês",

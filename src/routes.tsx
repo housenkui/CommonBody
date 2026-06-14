@@ -5,6 +5,7 @@ import { NotFoundPage } from './pages/NotFoundPage'
 import { StaticPage } from './pages/StaticPage'
 import { StoryPage } from './pages/StoryPage'
 import { VolunteersPage } from './pages/VolunteersPage'
+import { ExamPage } from './pages/ExamPage'
 
 /** 每次调用返回新的 Route 片段（React Router 不接受自定义组件包裹） */
 export function createAppChildRoutes() {
@@ -18,6 +19,7 @@ export function createAppChildRoutes() {
       <Route path="motivation" element={<StaticPage />} />
       <Route path="contribute" element={<StaticPage />} />
       <Route path="volunteers" element={<VolunteersPage />} />
+      <Route path="exam/gut-care" element={<ExamPage />} />
       <Route path="disclaimer" element={<StaticPage />} />
       <Route path="privacy" element={<StaticPage />} />
       <Route path="*" element={<NotFoundPage />} />

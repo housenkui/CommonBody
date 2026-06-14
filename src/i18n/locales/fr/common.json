@@ -64,6 +64,12 @@
     "unavailableBody": "Le recrutement de bénévoles n'est disponible qu'en chinois simplifié, pour la Chine continentale.",
     "viewZh": "Voir la version en chinois simplifié"
   },
+  "exam": {
+    "label": "Auto-évaluation",
+    "unavailableTitle": "Non disponible",
+    "unavailableBody": "L'auto-évaluation n'est disponible qu'en chinois simplifié pour le moment.",
+    "viewZh": "Voir la version en chinois simplifié"
+  },
   "fallback": {
     "banner": "Cette page n'est pas encore disponible en {{language}}. Une autre langue est affichée.",
     "viewZh": "Version chinoise simplifiée",

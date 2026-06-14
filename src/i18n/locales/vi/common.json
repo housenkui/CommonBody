@@ -64,6 +64,12 @@
     "unavailableBody": "Thông tin tuyển tình nguyện viên hiện chỉ có bản tiếng Trung giản thể, dành cho Trung Quốc đại lục.",
     "viewZh": "Xem bản tiếng Trung giản thể"
   },
+  "exam": {
+    "label": "Bài tự kiểm tra",
+    "unavailableTitle": "Chưa có",
+    "unavailableBody": "Bài tự kiểm tra hiện chỉ có bản tiếng Trung giản thể.",
+    "viewZh": "Xem bản tiếng Trung giản thể"
+  },
   "fallback": {
     "banner": "Trang này chưa có bản {{language}}. Đang hiển thị ngôn ngữ khác.",
     "viewZh": "Xem bản tiếng Trung giản thể",
